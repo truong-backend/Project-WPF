@@ -1,0 +1,10 @@
+﻿<Application x:Class="buoi2.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:buoi2"
+             xmlns:localMyModels="clr-namespace:buoi2.MyModels"
+             StartupUri="MainWindow.xaml">
+    <Application.Resources>
+        <localMyModels:WindowHangHoaVM x:Key="rsWindowHangHoa"/>
+    </Application.Resources>
+</Application>

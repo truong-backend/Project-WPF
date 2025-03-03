@@ -1,0 +1,161 @@
+﻿<Window x:Class="buoi2.UI.WindowHoaDon"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:buoi2.UI"
+        xmlns:localMyModels="clr-namespace:buoi2.MyModels"
+        mc:Ignorable="d"
+        Title="WindowHoaDon" Height="450" Width="800" Loaded="Window_Loaded">
+    <Window.Resources>
+        <localMyModels:CHoaDon x:Key="rshoadon"/>
+        <localMyModels:CChiTietHoaDon x:Key="rsChitiethoadon"/>
+        
+    </Window.Resources>
+    <Window.CommandBindings>
+        <CommandBinding x:Name="chon" Command="local:WindowHoaDon.lenhChon" Executed="chon_Executed" CanExecute="chon_CanExecute"/>
+        <CommandBinding x:Name="lap" Command="local:WindowHoaDon.lenhLapHD" Executed="lap_Executed" CanExecute="lap_CanExecute"/>
+    </Window.CommandBindings>
+    <StackPanel Margin="10">
+        <StackPanel Margin="5" DataContext="{StaticResource rshoadon}" x:Name="stackHoaDon">
+            <Grid >
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition/>
+                    <ColumnDefinition/>
+                    <ColumnDefinition/>
+                    <ColumnDefinition/>
+                </Grid.ColumnDefinitions>
+
+                <Grid.RowDefinitions>
+                    <RowDefinition/>
+                    <RowDefinition/>
+                    <RowDefinition/>
+                    <RowDefinition/>
+                </Grid.RowDefinitions>
+                <!--Text box cột đầu tiên-->
+                <TextBlock Text="So Hoa Don" Grid.Column="0" Grid.Row="0" ></TextBlock>
+                <TextBlock Text="Ngay Lap Hoa Don" Grid.Column="0" Grid.Row="1"></TextBlock>
+                <TextBlock Text="Ten Khach Hang" Grid.Column="0" Grid.Row="2"></TextBlock>
+                <TextBlock Text="Tong Tien Hoa Don" Grid.Column="0" Grid.Row="3"></TextBlock>
+
+                <!--text fill -->
+                <TextBox Grid.Column="1" Grid.Row="0" Text="{Binding Sohd }" ></TextBox>
+                <DatePicker Grid.Column="1" Grid.Row="1" SelectedDate="{Binding Ngaylaphd}" ></DatePicker>
+                <TextBox Grid.Column="1" Grid.Row="2" Text="{Binding Tenkh}"></TextBox>
+                <!--do thanhtien chi co get ma khong co set nen se bi loi-->
+                <TextBox Grid.Column="1" Grid.Row="3" Text="{Binding Thanhtien, Mode=OneWay}" ></TextBox>
+                <!--button-->
+
+                <!--<Button Grid.Column="2" Grid.Row="0" x:Name="btnThem"   Click="Button_Click">Thêm</Button>
+         <Button Grid.Column="2" Grid.Row="1"  >Xóa</Button>
+         <Button Grid.Column="2" Grid.Row="2" x:Name="btnSua">Sửa</Button>-->
+            </Grid>
+            <Separator/>
+            <Grid x:Name="gridCTHD" DataContext="{StaticResource rsChitiethoadon}">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition/>
+                    <ColumnDefinition/>
+                    <ColumnDefinition/>
+                    <ColumnDefinition/>
+                    <ColumnDefinition/>
+                    <ColumnDefinition/>
+                </Grid.ColumnDefinitions>
+                <Grid.RowDefinitions>
+                    <RowDefinition/>
+                    <RowDefinition/>
+                    <RowDefinition/>
+                </Grid.RowDefinitions>
+                
+                <TextBlock Text="Ma hang" Grid.Column="0" Grid.Row="0" ></TextBlock>
+                <TextBlock Text="Ten hang" Grid.Column="1" Grid.Row="0"></TextBlock>
+                <TextBlock Text="Don vi Tinh" Grid.Column="2" Grid.Row="0"></TextBlock>
+                <TextBlock Text="Don gia" Grid.Column="3" Grid.Row="0"></TextBlock>
+                <TextBlock Text="so luong" Grid.Column="4" Grid.Row="0"></TextBlock>
+                
+                <ComboBox x:Name="cmbMahang" Grid.Row="1" Grid.Column="0" DisplayMemberPath="Mahang" SelectedValuePath="Mahang"
+                          SelectedValue="{Binding Mahang}"></ComboBox>
+
+                <TextBox Grid.Column="1" Grid.Row="1"  IsReadOnly="True" Text="{Binding ElementName=cmbMahang,Path=SelectedItem.Tenhang}"></TextBox>
+                <TextBox Grid.Column="2" Grid.Row="1"   IsReadOnly="True" Text="{Binding ElementName=cmbMahang,Path=SelectedItem.Dvt}"></TextBox>
+                <TextBox Grid.Column="3" Grid.Row="1"  IsReadOnly="True" Text="{Binding ElementName=cmbMahang,Path=SelectedItem.Dongia}"></TextBox>
+                <TextBox Grid.Column="4" Grid.Row="1" Text="{Binding Soluong}" ></TextBox>
+                <Button Grid.Column="5" Grid.Row="1" Content="Chon hang Hoa" Command="local:WindowHoaDon.lenhChon" ></Button>
+            </Grid>
+            <Separator/>
+
+            <Button  Content="Lap Hoa Don" Command="local:WindowHoaDon.lenhLapHD"></Button>
+            <DataGrid x:Name="dgchitiet" AutoGenerateColumns="False" IsReadOnly="True" ItemsSource="{Binding Chitiethoadons}">
+                <DataGrid.Columns>
+                    <DataGridTextColumn Header="Ma hang" Binding="{Binding Mahang}" />
+                    <DataGridTextColumn Header="Ten Hang" Binding="{Binding Tenhang}" />
+                    <DataGridTextColumn Header="Don Vi Tinh" Binding="{Binding Dvt}" />
+                    <DataGridTextColumn Header="Don gia" Binding="{Binding Dongia}" />
+                    <DataGridTextColumn Header="So luong" Binding="{Binding Soluong}" />
+                    <DataGridTextColumn Header="Thanh Tien" Binding="{Binding Thanhtien}" />
+                </DataGrid.Columns>
+            </DataGrid>
+        </StackPanel>
+       
+        <Label>Danh Sach Hoa Don</Label>
+        <DataGrid x:Name="dgHoaDon" AutoGenerateColumns="False" Height="250" LoadingRowDetails="dgHoaDon_LoadingRowDetails">
+            <DataGrid.Columns>
+                <DataGridTextColumn Header="So Hoa Don" Binding="{Binding Sohd}"/>
+                <DataGridTextColumn Header="Ngay Lap Hoa Don" Binding="{Binding Ngaylaphd}"/>
+                <DataGridTextColumn Header="Ten Khach Hang" Binding="{Binding Tenkh}"/>
+            </DataGrid.Columns>
+
+            <DataGrid.RowDetailsTemplate>
+                <DataTemplate>
+                    <Expander Header="Chi Tiet hoa don">
+                        <StackPanel Margin="5" DataContext="{StaticResource rshoadon}" x:Name="stackHoaDon">
+                            <Grid >
+                                <Grid.ColumnDefinitions>
+                                    <ColumnDefinition/>
+                                    <ColumnDefinition/>
+                                    <ColumnDefinition/>
+                                    <ColumnDefinition/>
+                                </Grid.ColumnDefinitions>
+
+                                <Grid.RowDefinitions>
+                                    <RowDefinition/>
+                                    <RowDefinition/>
+                                    <RowDefinition/>
+                                    <RowDefinition/>
+                                </Grid.RowDefinitions>
+                                <!--Text box cột đầu tiên-->
+                                <TextBlock Text="So Hoa Don" Grid.Column="0" Grid.Row="0" ></TextBlock>
+                                <TextBlock Text="Ngay Lap Hoa Don" Grid.Column="0" Grid.Row="1"></TextBlock>
+                                <TextBlock Text="Ten Khach Hang" Grid.Column="0" Grid.Row="2"></TextBlock>
+                                <TextBlock Text="Tong Tien Hoa Don" Grid.Column="0" Grid.Row="3"></TextBlock>
+
+                                <!--text fill -->
+                                <TextBox Grid.Column="1" Grid.Row="0" Text="{Binding Sohd }" IsReadOnly="True"></TextBox>
+                                <TextBox Grid.Column="1" Grid.Row="1" Text="{Binding Ngaylaphd}" IsReadOnly="True"></TextBox>
+                                <TextBox Grid.Column="1" Grid.Row="2" Text="{Binding Tenkh}" IsReadOnly="True"></TextBox>
+                                <!--do thanhtien chi co get ma khong co set nen se bi loi-->
+                                <TextBox Grid.Column="1" Grid.Row="3" Text="{Binding Thanhtien, Mode=OneWay}" IsReadOnly="True"></TextBox>
+                                <!--button-->
+
+                                <!--<Button Grid.Column="2" Grid.Row="0" x:Name="btnThem"   Click="Button_Click">Thêm</Button>
+                                <Button Grid.Column="2" Grid.Row="1"  >Xóa</Button>
+                                <Button Grid.Column="2" Grid.Row="2" x:Name="btnSua">Sửa</Button>-->
+                            </Grid>
+              
+                            
+                            <DataGrid x:Name="dgChiTiet" AutoGenerateColumns="False" IsReadOnly="True" ItemsSource="{Binding Chitiethoadons}">
+                                <DataGrid.Columns>
+                                    <DataGridTextColumn Header="Ma hang" Binding="{Binding Mahang}" />
+                                    <DataGridTextColumn Header="Ten Hang" Binding="{Binding Tenhang}" />
+                                    <DataGridTextColumn Header="Don Vi Tinh" Binding="{Binding Dvt}" />
+                                    <DataGridTextColumn Header="Don gia" Binding="{Binding Dongia}" />
+                                    <DataGridTextColumn Header="So luong" Binding="{Binding Soluong}" />
+                                    <DataGridTextColumn Header="Thanh Tien" Binding="{Binding Thanhtien}" />
+                                </DataGrid.Columns>
+                            </DataGrid>
+                        </StackPanel>
+                    </Expander>
+                </DataTemplate>
+            </DataGrid.RowDetailsTemplate>
+        </DataGrid>
+    </StackPanel>
+</Window>

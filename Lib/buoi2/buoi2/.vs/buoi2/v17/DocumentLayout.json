@@ -1,0 +1,152 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\WinDow\\WPF\\Lib\\buoi2\\buoi2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{56B12864-255B-46AF-86E4-0CE52CED4CED}|buoi2\\buoi2.csproj|d:\\window\\wpf\\lib\\buoi2\\buoi2\\buoi2\\ui\\windowhoadon.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56B12864-255B-46AF-86E4-0CE52CED4CED}|buoi2\\buoi2.csproj|solutionrelative:buoi2\\ui\\windowhoadon.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56B12864-255B-46AF-86E4-0CE52CED4CED}|buoi2\\buoi2.csproj|d:\\window\\wpf\\lib\\buoi2\\buoi2\\buoi2\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56B12864-255B-46AF-86E4-0CE52CED4CED}|buoi2\\buoi2.csproj|solutionrelative:buoi2\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56B12864-255B-46AF-86E4-0CE52CED4CED}|buoi2\\buoi2.csproj|d:\\window\\wpf\\lib\\buoi2\\buoi2\\buoi2\\ui\\windowhoadon.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{56B12864-255B-46AF-86E4-0CE52CED4CED}|buoi2\\buoi2.csproj|solutionrelative:buoi2\\ui\\windowhoadon.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56B12864-255B-46AF-86E4-0CE52CED4CED}|buoi2\\buoi2.csproj|d:\\window\\wpf\\lib\\buoi2\\buoi2\\buoi2\\ui\\windowhanghoamvvm.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{56B12864-255B-46AF-86E4-0CE52CED4CED}|buoi2\\buoi2.csproj|solutionrelative:buoi2\\ui\\windowhanghoamvvm.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56B12864-255B-46AF-86E4-0CE52CED4CED}|buoi2\\buoi2.csproj|d:\\window\\wpf\\lib\\buoi2\\buoi2\\buoi2\\mymodels\\choadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56B12864-255B-46AF-86E4-0CE52CED4CED}|buoi2\\buoi2.csproj|solutionrelative:buoi2\\mymodels\\choadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56B12864-255B-46AF-86E4-0CE52CED4CED}|buoi2\\buoi2.csproj|d:\\window\\wpf\\lib\\buoi2\\buoi2\\buoi2\\mymodels\\cchitiethoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56B12864-255B-46AF-86E4-0CE52CED4CED}|buoi2\\buoi2.csproj|solutionrelative:buoi2\\mymodels\\cchitiethoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56B12864-255B-46AF-86E4-0CE52CED4CED}|buoi2\\buoi2.csproj|d:\\window\\wpf\\lib\\buoi2\\buoi2\\buoi2\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{56B12864-255B-46AF-86E4-0CE52CED4CED}|buoi2\\buoi2.csproj|solutionrelative:buoi2\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56B12864-255B-46AF-86E4-0CE52CED4CED}|buoi2\\buoi2.csproj|d:\\window\\wpf\\lib\\buoi2\\buoi2\\buoi2\\mymodels\\windowhanghoavm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56B12864-255B-46AF-86E4-0CE52CED4CED}|buoi2\\buoi2.csproj|solutionrelative:buoi2\\mymodels\\windowhanghoavm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CChiTietHoaDon.cs",
+              "DocumentMoniker": "D:\\WinDow\\WPF\\Lib\\buoi2\\buoi2\\buoi2\\MyModels\\CChiTietHoaDon.cs",
+              "RelativeDocumentMoniker": "buoi2\\MyModels\\CChiTietHoaDon.cs",
+              "ToolTip": "D:\\WinDow\\WPF\\Lib\\buoi2\\buoi2\\buoi2\\MyModels\\CChiTietHoaDon.cs",
+              "RelativeToolTip": "buoi2\\MyModels\\CChiTietHoaDon.cs",
+              "ViewState": "AgIAAEQAAAAAAAAAAAAUwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T09:28:35.639Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CHoaDon.cs",
+              "DocumentMoniker": "D:\\WinDow\\WPF\\Lib\\buoi2\\buoi2\\buoi2\\MyModels\\CHoaDon.cs",
+              "RelativeDocumentMoniker": "buoi2\\MyModels\\CHoaDon.cs",
+              "ToolTip": "D:\\WinDow\\WPF\\Lib\\buoi2\\buoi2\\buoi2\\MyModels\\CHoaDon.cs",
+              "RelativeToolTip": "buoi2\\MyModels\\CHoaDon.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAAEIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T07:21:23.721Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WindowHoaDon.xaml.cs",
+              "DocumentMoniker": "D:\\WinDow\\WPF\\Lib\\buoi2\\buoi2\\buoi2\\UI\\WindowHoaDon.xaml.cs",
+              "RelativeDocumentMoniker": "buoi2\\UI\\WindowHoaDon.xaml.cs",
+              "ToolTip": "D:\\WinDow\\WPF\\Lib\\buoi2\\buoi2\\buoi2\\UI\\WindowHoaDon.xaml.cs",
+              "RelativeToolTip": "buoi2\\UI\\WindowHoaDon.xaml.cs",
+              "ViewState": "AgIAAEsAAAAAAAAAAAAowFoAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T07:05:12.234Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "WindowHoaDon.xaml",
+              "DocumentMoniker": "D:\\WinDow\\WPF\\Lib\\buoi2\\buoi2\\buoi2\\UI\\WindowHoaDon.xaml",
+              "RelativeDocumentMoniker": "buoi2\\UI\\WindowHoaDon.xaml",
+              "ToolTip": "D:\\WinDow\\WPF\\Lib\\buoi2\\buoi2\\buoi2\\UI\\WindowHoaDon.xaml",
+              "RelativeToolTip": "buoi2\\UI\\WindowHoaDon.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-02-24T07:03:23.025Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "D:\\WinDow\\WPF\\Lib\\buoi2\\buoi2\\buoi2\\App.xaml.cs",
+              "RelativeDocumentMoniker": "buoi2\\App.xaml.cs",
+              "ToolTip": "D:\\WinDow\\WPF\\Lib\\buoi2\\buoi2\\buoi2\\App.xaml.cs",
+              "RelativeToolTip": "buoi2\\App.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T06:57:02.168Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "App.xaml",
+              "DocumentMoniker": "D:\\WinDow\\WPF\\Lib\\buoi2\\buoi2\\buoi2\\App.xaml",
+              "RelativeDocumentMoniker": "buoi2\\App.xaml",
+              "ToolTip": "D:\\WinDow\\WPF\\Lib\\buoi2\\buoi2\\buoi2\\App.xaml",
+              "RelativeToolTip": "buoi2\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-02-24T06:10:58.925Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "WindowHangHoaVM.cs",
+              "DocumentMoniker": "D:\\WinDow\\WPF\\Lib\\buoi2\\buoi2\\buoi2\\MyModels\\WindowHangHoaVM.cs",
+              "RelativeDocumentMoniker": "buoi2\\MyModels\\WindowHangHoaVM.cs",
+              "ToolTip": "D:\\WinDow\\WPF\\Lib\\buoi2\\buoi2\\buoi2\\MyModels\\WindowHangHoaVM.cs",
+              "RelativeToolTip": "buoi2\\MyModels\\WindowHangHoaVM.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAUwCUAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T06:07:09.685Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "WindowHangHoaMVVM.xaml",
+              "DocumentMoniker": "D:\\WinDow\\WPF\\Lib\\buoi2\\buoi2\\buoi2\\UI\\WindowHangHoaMVVM.xaml",
+              "RelativeDocumentMoniker": "buoi2\\UI\\WindowHangHoaMVVM.xaml",
+              "ToolTip": "D:\\WinDow\\WPF\\Lib\\buoi2\\buoi2\\buoi2\\UI\\WindowHangHoaMVVM.xaml",
+              "RelativeToolTip": "buoi2\\UI\\WindowHangHoaMVVM.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-02-24T05:50:08.915Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

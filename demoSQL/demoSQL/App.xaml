@@ -1,0 +1,11 @@
+﻿<Application x:Class="demoSQL.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:demoSQL"
+             xmlns:localMyModels="clr-namespace:demoSQL.Mymodels"
+             StartupUri="MainWindow.xaml">
+    <Application.Resources>
+        <localMyModels:Choadon x:Key="rsHoaDon"/>
+        <localMyModels:Choadon x:Key=""/>
+    </Application.Resources>
+</Application>

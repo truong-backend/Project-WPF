@@ -1,0 +1,62 @@
+﻿<Window x:Class="wpfsql.UI.WindowHangHoa"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:wpfsql.UI"
+        xmlns:localModels="clr-namespace:wpfsql.Models"
+        mc:Ignorable="d"
+        Title="WindowHangHoa" Height="450" Width="800" Loaded="Window_Loaded">
+    <Window.CommandBindings>
+        <CommandBinding x:Name="them" Command="local:WindowHangHoa.lenhThem" Executed="them_Executed"
+                        CanExecute="them_CanExecute"/>
+        <CommandBinding x:Name="xoa" Command="local:WindowHangHoa.lenhXoa" 
+                        Executed="xoa_Executed" CanExecute="xoa_CanExecute"/>
+        <CommandBinding x:Name="sua" Command="local:WindowHangHoa.lenhXoa" 
+                Executed="sua_Executed" CanExecute="sua_CanExecute"/>
+    </Window.CommandBindings>
+    <Window.Resources>
+        <localModels:Hanghoa x:Key="rsHangHoa"/>
+    </Window.Resources>
+    <StackPanel>
+        <Label Content="Quản lý hàng hóa" FontSize="28" FontWeight="Bold" HorizontalAlignment="Center"/>
+        <Grid DataContext="{StaticResource rsHangHoa}" x:Name="gridHangHoa">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition/>
+                <ColumnDefinition/>
+                <ColumnDefinition Width="5*"/>
+                <ColumnDefinition/>
+                <ColumnDefinition/>
+            </Grid.ColumnDefinitions>
+            <Grid.RowDefinitions>
+                <RowDefinition/>
+                <RowDefinition/>
+                <RowDefinition/>
+                <RowDefinition/>
+                <RowDefinition/>
+            </Grid.RowDefinitions>
+            <TextBlock Grid.Row="0" Grid.Column="1" Text="Mã hàng"/>
+            <TextBlock Grid.Row="1" Grid.Column="1" Text="Tên hàng"/>
+            <TextBlock Grid.Row="2" Grid.Column="1" Text="Đơn vị tính"/>
+            <TextBlock Grid.Row="3" Grid.Column="1" Text="Đơn giá"/>
+
+            <TextBox Grid.Row="0" Grid.Column="2" Text="{Binding Mahang}"/>
+            <TextBox Grid.Row="1" Grid.Column="2" Text="{Binding Tenhang}"/>
+            <TextBox Grid.Row="2" Grid.Column="2" Text="{Binding Dvt}"/>
+            <TextBox Grid.Row="3" Grid.Column="2" Text="{Binding Dongia}"/>
+            
+            <Button Command="local:WindowHangHoa.lenhThem" Grid.Row="0" Grid.Column="3" Content="Thêm" />
+            <Button Command="local:WindowHangHoa.lenhXoa" Grid.Row="1" Grid.Column="3" Content="Xóa" />
+            <Button Command="local:WindowHangHoa.lenhSua" Grid.Row="2" Grid.Column="3" Content="Sửa" />
+
+        </Grid>
+        <DataGrid IsReadOnly="True" SelectionChanged="dgHanghoa_SelectionChanged" x:Name="dgHanghoa" AutoGenerateColumns="False">
+            <DataGrid.Columns>
+                <DataGridTextColumn Header="Mã hàng" Binding="{Binding Mahang}"/>
+                <DataGridTextColumn Header="Tên hàng" Binding="{Binding Tenhang}"/>
+                <DataGridTextColumn Header="Đơn vị tính" Binding="{Binding Dvt}"/>
+                <DataGridTextColumn Header="Đơn giá" Binding="{Binding Dongia}"/>
+            </DataGrid.Columns>
+        </DataGrid>
+    </StackPanel>
+</Window>

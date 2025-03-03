@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\WinDow\\WPF\\Demothidecu\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{69D3EBD8-8311-44D4-A32B-3DAE0584C8DB}|Demothidecu\\Demothidecu.csproj|d:\\window\\wpf\\demothidecu\\demothidecu\\ui\\windowdienke.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69D3EBD8-8311-44D4-A32B-3DAE0584C8DB}|Demothidecu\\Demothidecu.csproj|solutionrelative:demothidecu\\ui\\windowdienke.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69D3EBD8-8311-44D4-A32B-3DAE0584C8DB}|Demothidecu\\Demothidecu.csproj|d:\\window\\wpf\\demothidecu\\demothidecu\\ui\\windowdienke.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{69D3EBD8-8311-44D4-A32B-3DAE0584C8DB}|Demothidecu\\Demothidecu.csproj|solutionrelative:demothidecu\\ui\\windowdienke.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69D3EBD8-8311-44D4-A32B-3DAE0584C8DB}|Demothidecu\\Demothidecu.csproj|d:\\window\\wpf\\demothidecu\\demothidecu\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{69D3EBD8-8311-44D4-A32B-3DAE0584C8DB}|Demothidecu\\Demothidecu.csproj|solutionrelative:demothidecu\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69D3EBD8-8311-44D4-A32B-3DAE0584C8DB}|Demothidecu\\Demothidecu.csproj|d:\\window\\wpf\\demothidecu\\demothidecu\\mymodels\\cdienke.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69D3EBD8-8311-44D4-A32B-3DAE0584C8DB}|Demothidecu\\Demothidecu.csproj|solutionrelative:demothidecu\\mymodels\\cdienke.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Windowdienke.xaml",
+              "DocumentMoniker": "D:\\WinDow\\WPF\\Demothidecu\\Demothidecu\\UI\\Windowdienke.xaml",
+              "RelativeDocumentMoniker": "Demothidecu\\UI\\Windowdienke.xaml",
+              "ToolTip": "D:\\WinDow\\WPF\\Demothidecu\\Demothidecu\\UI\\Windowdienke.xaml",
+              "RelativeToolTip": "Demothidecu\\UI\\Windowdienke.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-02-27T15:21:40.857Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Windowdienke.xaml.cs",
+              "DocumentMoniker": "D:\\WinDow\\WPF\\Demothidecu\\Demothidecu\\UI\\Windowdienke.xaml.cs",
+              "RelativeDocumentMoniker": "Demothidecu\\UI\\Windowdienke.xaml.cs",
+              "ToolTip": "D:\\WinDow\\WPF\\Demothidecu\\Demothidecu\\UI\\Windowdienke.xaml.cs",
+              "RelativeToolTip": "Demothidecu\\UI\\Windowdienke.xaml.cs",
+              "ViewState": "AgIAAEYAAAAAAAAAAAAmwEQAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T15:21:37.122Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\WinDow\\WPF\\Demothidecu\\Demothidecu\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "Demothidecu\\MainWindow.xaml",
+              "ToolTip": "D:\\WinDow\\WPF\\Demothidecu\\Demothidecu\\MainWindow.xaml",
+              "RelativeToolTip": "Demothidecu\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-02-28T06:15:28.408Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Cdienke.cs",
+              "DocumentMoniker": "D:\\WinDow\\WPF\\Demothidecu\\Demothidecu\\Mymodels\\Cdienke.cs",
+              "RelativeDocumentMoniker": "Demothidecu\\Mymodels\\Cdienke.cs",
+              "ToolTip": "D:\\WinDow\\WPF\\Demothidecu\\Demothidecu\\Mymodels\\Cdienke.cs",
+              "RelativeToolTip": "Demothidecu\\Mymodels\\Cdienke.cs",
+              "ViewState": "AgIAADoAAAAAAAAAAAAAAEoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T02:24:37.586Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

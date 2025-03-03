@@ -1,0 +1,181 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\WinDow\\WPF\\demoSQL\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3A2B3098-CBE0-417F-A467-A2485D8C3354}|demoSQL\\demoSQL.csproj|d:\\window\\wpf\\demosql\\demosql\\ui\\windowhoadon.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{3A2B3098-CBE0-417F-A467-A2485D8C3354}|demoSQL\\demoSQL.csproj|solutionrelative:demosql\\ui\\windowhoadon.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A2B3098-CBE0-417F-A467-A2485D8C3354}|demoSQL\\demoSQL.csproj|d:\\window\\wpf\\demosql\\demosql\\ui\\windowhanghoa.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|",
+      "RelativeMoniker": "D:0:0:{3A2B3098-CBE0-417F-A467-A2485D8C3354}|demoSQL\\demoSQL.csproj|solutionrelative:demosql\\ui\\windowhanghoa.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A2B3098-CBE0-417F-A467-A2485D8C3354}|demoSQL\\demoSQL.csproj|d:\\window\\wpf\\demosql\\demosql\\ui\\windowhoadon.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A2B3098-CBE0-417F-A467-A2485D8C3354}|demoSQL\\demoSQL.csproj|solutionrelative:demosql\\ui\\windowhoadon.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A2B3098-CBE0-417F-A467-A2485D8C3354}|demoSQL\\demoSQL.csproj|d:\\window\\wpf\\demosql\\demosql\\ui\\windowhanghoa.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{3A2B3098-CBE0-417F-A467-A2485D8C3354}|demoSQL\\demoSQL.csproj|solutionrelative:demosql\\ui\\windowhanghoa.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A2B3098-CBE0-417F-A467-A2485D8C3354}|demoSQL\\demoSQL.csproj|d:\\window\\wpf\\demosql\\demosql\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{3A2B3098-CBE0-417F-A467-A2485D8C3354}|demoSQL\\demoSQL.csproj|solutionrelative:demosql\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A2B3098-CBE0-417F-A467-A2485D8C3354}|demoSQL\\demoSQL.csproj|d:\\window\\wpf\\demosql\\demosql\\models\\hanghoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A2B3098-CBE0-417F-A467-A2485D8C3354}|demoSQL\\demoSQL.csproj|solutionrelative:demosql\\models\\hanghoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A2B3098-CBE0-417F-A467-A2485D8C3354}|demoSQL\\demoSQL.csproj|d:\\window\\wpf\\demosql\\demosql\\mymodels\\cchitiethoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A2B3098-CBE0-417F-A467-A2485D8C3354}|demoSQL\\demoSQL.csproj|solutionrelative:demosql\\mymodels\\cchitiethoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A2B3098-CBE0-417F-A467-A2485D8C3354}|demoSQL\\demoSQL.csproj|d:\\window\\wpf\\demosql\\demosql\\models\\hoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A2B3098-CBE0-417F-A467-A2485D8C3354}|demoSQL\\demoSQL.csproj|solutionrelative:demosql\\models\\hoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A2B3098-CBE0-417F-A467-A2485D8C3354}|demoSQL\\demoSQL.csproj|d:\\window\\wpf\\demosql\\demosql\\mymodels\\choadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A2B3098-CBE0-417F-A467-A2485D8C3354}|demoSQL\\demoSQL.csproj|solutionrelative:demosql\\mymodels\\choadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A2B3098-CBE0-417F-A467-A2485D8C3354}|demoSQL\\demoSQL.csproj|d:\\window\\wpf\\demosql\\demosql\\models\\chitiethoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A2B3098-CBE0-417F-A467-A2485D8C3354}|demoSQL\\demoSQL.csproj|solutionrelative:demosql\\models\\chitiethoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\WinDow\\WPF\\demoSQL\\demoSQL\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "demoSQL\\MainWindow.xaml",
+              "ToolTip": "D:\\WinDow\\WPF\\demoSQL\\demoSQL\\MainWindow.xaml",
+              "RelativeToolTip": "demoSQL\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-02-28T07:18:54.146Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WindowHanghoa.xaml.cs",
+              "DocumentMoniker": "D:\\WinDow\\WPF\\demoSQL\\demoSQL\\UI\\WindowHanghoa.xaml.cs",
+              "RelativeDocumentMoniker": "demoSQL\\UI\\WindowHanghoa.xaml.cs",
+              "ToolTip": "D:\\WinDow\\WPF\\demoSQL\\demoSQL\\UI\\WindowHanghoa.xaml.cs",
+              "RelativeToolTip": "demoSQL\\UI\\WindowHanghoa.xaml.cs",
+              "ViewState": "AgIAAIIAAAAAAAAAAADwv5IAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T15:42:39.2Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "WindowHanghoa.xaml",
+              "DocumentMoniker": "D:\\WinDow\\WPF\\demoSQL\\demoSQL\\UI\\WindowHanghoa.xaml",
+              "RelativeDocumentMoniker": "demoSQL\\UI\\WindowHanghoa.xaml",
+              "ToolTip": "D:\\WinDow\\WPF\\demoSQL\\demoSQL\\UI\\WindowHanghoa.xaml",
+              "RelativeToolTip": "demoSQL\\UI\\WindowHanghoa.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-02-27T15:22:04.422Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Hoadon.cs",
+              "DocumentMoniker": "D:\\WinDow\\WPF\\demoSQL\\demoSQL\\Models\\Hoadon.cs",
+              "RelativeDocumentMoniker": "demoSQL\\Models\\Hoadon.cs",
+              "ToolTip": "D:\\WinDow\\WPF\\demoSQL\\demoSQL\\Models\\Hoadon.cs",
+              "RelativeToolTip": "demoSQL\\Models\\Hoadon.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T15:19:29.46Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Chitiethoadon.cs",
+              "DocumentMoniker": "D:\\WinDow\\WPF\\demoSQL\\demoSQL\\Models\\Chitiethoadon.cs",
+              "RelativeDocumentMoniker": "demoSQL\\Models\\Chitiethoadon.cs",
+              "ToolTip": "D:\\WinDow\\WPF\\demoSQL\\demoSQL\\Models\\Chitiethoadon.cs",
+              "RelativeToolTip": "demoSQL\\Models\\Chitiethoadon.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T15:18:11.764Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Choadon.cs",
+              "DocumentMoniker": "D:\\WinDow\\WPF\\demoSQL\\demoSQL\\Mymodels\\Choadon.cs",
+              "RelativeDocumentMoniker": "demoSQL\\Mymodels\\Choadon.cs",
+              "ToolTip": "D:\\WinDow\\WPF\\demoSQL\\demoSQL\\Mymodels\\Choadon.cs",
+              "RelativeToolTip": "demoSQL\\Mymodels\\Choadon.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAADYAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T14:25:04.497Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Hanghoa.cs",
+              "DocumentMoniker": "D:\\WinDow\\WPF\\demoSQL\\demoSQL\\Models\\Hanghoa.cs",
+              "RelativeDocumentMoniker": "demoSQL\\Models\\Hanghoa.cs",
+              "ToolTip": "D:\\WinDow\\WPF\\demoSQL\\demoSQL\\Models\\Hanghoa.cs",
+              "RelativeToolTip": "demoSQL\\Models\\Hanghoa.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T14:23:49.061Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Cchitiethoadon.cs",
+              "DocumentMoniker": "D:\\WinDow\\WPF\\demoSQL\\demoSQL\\Mymodels\\Cchitiethoadon.cs",
+              "RelativeDocumentMoniker": "demoSQL\\Mymodels\\Cchitiethoadon.cs",
+              "ToolTip": "D:\\WinDow\\WPF\\demoSQL\\demoSQL\\Mymodels\\Cchitiethoadon.cs",
+              "RelativeToolTip": "demoSQL\\Mymodels\\Cchitiethoadon.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAADcAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T14:23:41.158Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "WindowHoadon.xaml.cs",
+              "DocumentMoniker": "D:\\WinDow\\WPF\\demoSQL\\demoSQL\\UI\\WindowHoadon.xaml.cs",
+              "RelativeDocumentMoniker": "demoSQL\\UI\\WindowHoadon.xaml.cs",
+              "ToolTip": "D:\\WinDow\\WPF\\demoSQL\\demoSQL\\UI\\WindowHoadon.xaml.cs",
+              "RelativeToolTip": "demoSQL\\UI\\WindowHoadon.xaml.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAAwCoAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T04:02:16.082Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WindowHoadon.xaml",
+              "DocumentMoniker": "D:\\WinDow\\WPF\\demoSQL\\demoSQL\\UI\\WindowHoadon.xaml",
+              "RelativeDocumentMoniker": "demoSQL\\UI\\WindowHoadon.xaml",
+              "ToolTip": "D:\\WinDow\\WPF\\demoSQL\\demoSQL\\UI\\WindowHoadon.xaml",
+              "RelativeToolTip": "demoSQL\\UI\\WindowHoadon.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-02-27T04:02:11.073Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

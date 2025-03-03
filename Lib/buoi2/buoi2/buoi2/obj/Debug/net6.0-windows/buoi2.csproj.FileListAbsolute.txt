@@ -1,0 +1,233 @@
+C:\DAI HOC CONG NGHE SAI GON STU\xaydungphanmenwindow\buoi1\buoi2\buoi2\buoi2\bin\Debug\net6.0-windows\buoi2.exe
+C:\DAI HOC CONG NGHE SAI GON STU\xaydungphanmenwindow\buoi1\buoi2\buoi2\buoi2\bin\Debug\net6.0-windows\buoi2.deps.json
+C:\DAI HOC CONG NGHE SAI GON STU\xaydungphanmenwindow\buoi1\buoi2\buoi2\buoi2\bin\Debug\net6.0-windows\buoi2.runtimeconfig.json
+C:\DAI HOC CONG NGHE SAI GON STU\xaydungphanmenwindow\buoi1\buoi2\buoi2\buoi2\bin\Debug\net6.0-windows\buoi2.dll
+C:\DAI HOC CONG NGHE SAI GON STU\xaydungphanmenwindow\buoi1\buoi2\buoi2\buoi2\bin\Debug\net6.0-windows\buoi2.pdb
+C:\DAI HOC CONG NGHE SAI GON STU\xaydungphanmenwindow\buoi1\buoi2\buoi2\buoi2\bin\Debug\net6.0-windows\Humanizer.dll
+C:\DAI HOC CONG NGHE SAI GON STU\xaydungphanmenwindow\buoi1\buoi2\buoi2\buoi2\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+C:\DAI HOC CONG NGHE SAI GON STU\xaydungphanmenwindow\buoi1\buoi2\buoi2\buoi2\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\DAI HOC CONG NGHE SAI GON STU\xaydungphanmenwindow\buoi1\buoi2\buoi2\buoi2\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\DAI HOC CONG NGHE SAI GON STU\xaydungphanmenwindow\buoi1\buoi2\buoi2\buoi2\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\DAI HOC CONG NGHE SAI GON STU\xaydungphanmenwindow\buoi1\buoi2\buoi2\buoi2\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\DAI HOC CONG NGHE SAI GON STU\xaydungphanmenwindow\buoi1\buoi2\buoi2\buoi2\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\DAI HOC CONG NGHE SAI GON STU\xaydungphanmenwindow\buoi1\buoi2\buoi2\buoi2\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\DAI HOC CONG NGHE SAI GON STU\xaydungphanmenwindow\buoi1\buoi2\buoi2\buoi2\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\DAI HOC CONG NGHE SAI GON STU\xaydungphanmenwindow\buoi1\buoi2\buoi2\buoi2\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\DAI HOC CONG NGHE SAI GON STU\xaydungphanmenwindow\buoi1\buoi2\buoi2\buoi2\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\DAI HOC CONG NGHE SAI GON STU\xaydungphanmenwindow\buoi1\buoi2\buoi2\buoi2\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\DAI HOC CONG NGHE SAI GON STU\xaydungphanmenwindow\buoi1\buoi2\buoi2\buoi2\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+C:\DAI HOC CONG NGHE SAI GON STU\xaydungphanmenwindow\buoi1\buoi2\buoi2\buoi2\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\DAI HOC CONG NGHE SAI GON STU\xaydungphanmenwindow\buoi1\buoi2\buoi2\buoi2\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+C:\DAI HOC CONG NGHE SAI GON STU\xaydungphanmenwindow\buoi1\buoi2\buoi2\buoi2\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\DAI HOC CONG NGHE SAI GON STU\xaydungphanmenwindow\buoi1\buoi2\buoi2\buoi2\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+C:\DAI HOC CONG NGHE SAI GON STU\xaydungphanmenwindow\buoi1\buoi2\buoi2\buoi2\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\DAI HOC CONG NGHE SAI GON STU\xaydungphanmenwindow\buoi1\buoi2\buoi2\buoi2\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\DAI HOC CONG NGHE SAI GON STU\xaydungphanmenwindow\buoi1\buoi2\buoi2\buoi2\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\DAI HOC CONG NGHE SAI GON STU\xaydungphanmenwindow\buoi1\buoi2\buoi2\buoi2\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\DAI HOC CONG NGHE SAI GON STU\xaydungphanmenwindow\buoi1\buoi2\buoi2\buoi2\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\DAI HOC CONG NGHE SAI GON STU\xaydungphanmenwindow\buoi1\buoi2\buoi2\buoi2\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\DAI HOC CONG NGHE SAI GON STU\xaydungphanmenwindow\buoi1\buoi2\buoi2\buoi2\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+C:\DAI HOC CONG NGHE SAI GON STU\xaydungphanmenwindow\buoi1\buoi2\buoi2\buoi2\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\DAI HOC CONG NGHE SAI GON STU\xaydungphanmenwindow\buoi1\buoi2\buoi2\buoi2\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\DAI HOC CONG NGHE SAI GON STU\xaydungphanmenwindow\buoi1\buoi2\buoi2\buoi2\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\DAI HOC CONG NGHE SAI GON STU\xaydungphanmenwindow\buoi1\buoi2\buoi2\buoi2\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\DAI HOC CONG NGHE SAI GON STU\xaydungphanmenwindow\buoi1\buoi2\buoi2\buoi2\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\DAI HOC CONG NGHE SAI GON STU\xaydungphanmenwindow\buoi1\buoi2\buoi2\buoi2\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\DAI HOC CONG NGHE SAI GON STU\xaydungphanmenwindow\buoi1\buoi2\buoi2\buoi2\bin\Debug\net6.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\DAI HOC CONG NGHE SAI GON STU\xaydungphanmenwindow\buoi1\buoi2\buoi2\buoi2\obj\Debug\net6.0-windows\buoi2.csproj.AssemblyReference.cache
+C:\DAI HOC CONG NGHE SAI GON STU\xaydungphanmenwindow\buoi1\buoi2\buoi2\buoi2\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\DAI HOC CONG NGHE SAI GON STU\xaydungphanmenwindow\buoi1\buoi2\buoi2\buoi2\obj\Debug\net6.0-windows\App.g.cs
+C:\DAI HOC CONG NGHE SAI GON STU\xaydungphanmenwindow\buoi1\buoi2\buoi2\buoi2\obj\Debug\net6.0-windows\buoi2_MarkupCompile.cache
+C:\DAI HOC CONG NGHE SAI GON STU\xaydungphanmenwindow\buoi1\buoi2\buoi2\buoi2\obj\Debug\net6.0-windows\buoi2_MarkupCompile.lref
+C:\DAI HOC CONG NGHE SAI GON STU\xaydungphanmenwindow\buoi1\buoi2\buoi2\buoi2\obj\Debug\net6.0-windows\MainWindow.baml
+C:\DAI HOC CONG NGHE SAI GON STU\xaydungphanmenwindow\buoi1\buoi2\buoi2\buoi2\obj\Debug\net6.0-windows\buoi2.g.resources
+C:\DAI HOC CONG NGHE SAI GON STU\xaydungphanmenwindow\buoi1\buoi2\buoi2\buoi2\obj\Debug\net6.0-windows\buoi2.GeneratedMSBuildEditorConfig.editorconfig
+C:\DAI HOC CONG NGHE SAI GON STU\xaydungphanmenwindow\buoi1\buoi2\buoi2\buoi2\obj\Debug\net6.0-windows\buoi2.AssemblyInfoInputs.cache
+C:\DAI HOC CONG NGHE SAI GON STU\xaydungphanmenwindow\buoi1\buoi2\buoi2\buoi2\obj\Debug\net6.0-windows\buoi2.AssemblyInfo.cs
+C:\DAI HOC CONG NGHE SAI GON STU\xaydungphanmenwindow\buoi1\buoi2\buoi2\buoi2\obj\Debug\net6.0-windows\buoi2.csproj.CoreCompileInputs.cache
+C:\DAI HOC CONG NGHE SAI GON STU\xaydungphanmenwindow\buoi1\buoi2\buoi2\buoi2\obj\Debug\net6.0-windows\buoi2.csproj.Up2Date
+C:\DAI HOC CONG NGHE SAI GON STU\xaydungphanmenwindow\buoi1\buoi2\buoi2\buoi2\obj\Debug\net6.0-windows\buoi2.dll
+C:\DAI HOC CONG NGHE SAI GON STU\xaydungphanmenwindow\buoi1\buoi2\buoi2\buoi2\obj\Debug\net6.0-windows\refint\buoi2.dll
+C:\DAI HOC CONG NGHE SAI GON STU\xaydungphanmenwindow\buoi1\buoi2\buoi2\buoi2\obj\Debug\net6.0-windows\buoi2.pdb
+C:\DAI HOC CONG NGHE SAI GON STU\xaydungphanmenwindow\buoi1\buoi2\buoi2\buoi2\obj\Debug\net6.0-windows\buoi2.genruntimeconfig.cache
+C:\DAI HOC CONG NGHE SAI GON STU\xaydungphanmenwindow\buoi1\buoi2\buoi2\buoi2\obj\Debug\net6.0-windows\ref\buoi2.dll
+C:\DAI HOC CONG NGHE SAI GON STU\xaydungphanmenwindow\buoi2\buoi2\buoi2\bin\Debug\net6.0-windows\buoi2.exe
+C:\DAI HOC CONG NGHE SAI GON STU\xaydungphanmenwindow\buoi2\buoi2\buoi2\bin\Debug\net6.0-windows\buoi2.deps.json
+C:\DAI HOC CONG NGHE SAI GON STU\xaydungphanmenwindow\buoi2\buoi2\buoi2\bin\Debug\net6.0-windows\buoi2.runtimeconfig.json
+C:\DAI HOC CONG NGHE SAI GON STU\xaydungphanmenwindow\buoi2\buoi2\buoi2\bin\Debug\net6.0-windows\buoi2.dll
+C:\DAI HOC CONG NGHE SAI GON STU\xaydungphanmenwindow\buoi2\buoi2\buoi2\bin\Debug\net6.0-windows\buoi2.pdb
+C:\DAI HOC CONG NGHE SAI GON STU\xaydungphanmenwindow\buoi2\buoi2\buoi2\bin\Debug\net6.0-windows\Humanizer.dll
+C:\DAI HOC CONG NGHE SAI GON STU\xaydungphanmenwindow\buoi2\buoi2\buoi2\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+C:\DAI HOC CONG NGHE SAI GON STU\xaydungphanmenwindow\buoi2\buoi2\buoi2\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\DAI HOC CONG NGHE SAI GON STU\xaydungphanmenwindow\buoi2\buoi2\buoi2\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\DAI HOC CONG NGHE SAI GON STU\xaydungphanmenwindow\buoi2\buoi2\buoi2\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\DAI HOC CONG NGHE SAI GON STU\xaydungphanmenwindow\buoi2\buoi2\buoi2\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\DAI HOC CONG NGHE SAI GON STU\xaydungphanmenwindow\buoi2\buoi2\buoi2\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\DAI HOC CONG NGHE SAI GON STU\xaydungphanmenwindow\buoi2\buoi2\buoi2\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\DAI HOC CONG NGHE SAI GON STU\xaydungphanmenwindow\buoi2\buoi2\buoi2\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\DAI HOC CONG NGHE SAI GON STU\xaydungphanmenwindow\buoi2\buoi2\buoi2\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\DAI HOC CONG NGHE SAI GON STU\xaydungphanmenwindow\buoi2\buoi2\buoi2\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\DAI HOC CONG NGHE SAI GON STU\xaydungphanmenwindow\buoi2\buoi2\buoi2\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\DAI HOC CONG NGHE SAI GON STU\xaydungphanmenwindow\buoi2\buoi2\buoi2\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+C:\DAI HOC CONG NGHE SAI GON STU\xaydungphanmenwindow\buoi2\buoi2\buoi2\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\DAI HOC CONG NGHE SAI GON STU\xaydungphanmenwindow\buoi2\buoi2\buoi2\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+C:\DAI HOC CONG NGHE SAI GON STU\xaydungphanmenwindow\buoi2\buoi2\buoi2\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\DAI HOC CONG NGHE SAI GON STU\xaydungphanmenwindow\buoi2\buoi2\buoi2\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+C:\DAI HOC CONG NGHE SAI GON STU\xaydungphanmenwindow\buoi2\buoi2\buoi2\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\DAI HOC CONG NGHE SAI GON STU\xaydungphanmenwindow\buoi2\buoi2\buoi2\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\DAI HOC CONG NGHE SAI GON STU\xaydungphanmenwindow\buoi2\buoi2\buoi2\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\DAI HOC CONG NGHE SAI GON STU\xaydungphanmenwindow\buoi2\buoi2\buoi2\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\DAI HOC CONG NGHE SAI GON STU\xaydungphanmenwindow\buoi2\buoi2\buoi2\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\DAI HOC CONG NGHE SAI GON STU\xaydungphanmenwindow\buoi2\buoi2\buoi2\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\DAI HOC CONG NGHE SAI GON STU\xaydungphanmenwindow\buoi2\buoi2\buoi2\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+C:\DAI HOC CONG NGHE SAI GON STU\xaydungphanmenwindow\buoi2\buoi2\buoi2\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\DAI HOC CONG NGHE SAI GON STU\xaydungphanmenwindow\buoi2\buoi2\buoi2\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\DAI HOC CONG NGHE SAI GON STU\xaydungphanmenwindow\buoi2\buoi2\buoi2\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\DAI HOC CONG NGHE SAI GON STU\xaydungphanmenwindow\buoi2\buoi2\buoi2\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\DAI HOC CONG NGHE SAI GON STU\xaydungphanmenwindow\buoi2\buoi2\buoi2\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\DAI HOC CONG NGHE SAI GON STU\xaydungphanmenwindow\buoi2\buoi2\buoi2\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\DAI HOC CONG NGHE SAI GON STU\xaydungphanmenwindow\buoi2\buoi2\buoi2\bin\Debug\net6.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\DAI HOC CONG NGHE SAI GON STU\xaydungphanmenwindow\buoi2\buoi2\buoi2\obj\Debug\net6.0-windows\buoi2.csproj.AssemblyReference.cache
+C:\DAI HOC CONG NGHE SAI GON STU\xaydungphanmenwindow\buoi2\buoi2\buoi2\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\DAI HOC CONG NGHE SAI GON STU\xaydungphanmenwindow\buoi2\buoi2\buoi2\obj\Debug\net6.0-windows\UI\WindowHangHoa.g.cs
+C:\DAI HOC CONG NGHE SAI GON STU\xaydungphanmenwindow\buoi2\buoi2\buoi2\obj\Debug\net6.0-windows\App.g.cs
+C:\DAI HOC CONG NGHE SAI GON STU\xaydungphanmenwindow\buoi2\buoi2\buoi2\obj\Debug\net6.0-windows\buoi2_MarkupCompile.cache
+C:\DAI HOC CONG NGHE SAI GON STU\xaydungphanmenwindow\buoi2\buoi2\buoi2\obj\Debug\net6.0-windows\buoi2_MarkupCompile.lref
+C:\DAI HOC CONG NGHE SAI GON STU\xaydungphanmenwindow\buoi2\buoi2\buoi2\obj\Debug\net6.0-windows\MainWindow.baml
+C:\DAI HOC CONG NGHE SAI GON STU\xaydungphanmenwindow\buoi2\buoi2\buoi2\obj\Debug\net6.0-windows\UI\WindowHangHoa.baml
+C:\DAI HOC CONG NGHE SAI GON STU\xaydungphanmenwindow\buoi2\buoi2\buoi2\obj\Debug\net6.0-windows\buoi2.g.resources
+C:\DAI HOC CONG NGHE SAI GON STU\xaydungphanmenwindow\buoi2\buoi2\buoi2\obj\Debug\net6.0-windows\buoi2.GeneratedMSBuildEditorConfig.editorconfig
+C:\DAI HOC CONG NGHE SAI GON STU\xaydungphanmenwindow\buoi2\buoi2\buoi2\obj\Debug\net6.0-windows\buoi2.AssemblyInfoInputs.cache
+C:\DAI HOC CONG NGHE SAI GON STU\xaydungphanmenwindow\buoi2\buoi2\buoi2\obj\Debug\net6.0-windows\buoi2.AssemblyInfo.cs
+C:\DAI HOC CONG NGHE SAI GON STU\xaydungphanmenwindow\buoi2\buoi2\buoi2\obj\Debug\net6.0-windows\buoi2.csproj.CoreCompileInputs.cache
+C:\DAI HOC CONG NGHE SAI GON STU\xaydungphanmenwindow\buoi2\buoi2\buoi2\obj\Debug\net6.0-windows\buoi2.csproj.Up2Date
+C:\DAI HOC CONG NGHE SAI GON STU\xaydungphanmenwindow\buoi2\buoi2\buoi2\obj\Debug\net6.0-windows\buoi2.dll
+C:\DAI HOC CONG NGHE SAI GON STU\xaydungphanmenwindow\buoi2\buoi2\buoi2\obj\Debug\net6.0-windows\refint\buoi2.dll
+C:\DAI HOC CONG NGHE SAI GON STU\xaydungphanmenwindow\buoi2\buoi2\buoi2\obj\Debug\net6.0-windows\buoi2.pdb
+C:\DAI HOC CONG NGHE SAI GON STU\xaydungphanmenwindow\buoi2\buoi2\buoi2\obj\Debug\net6.0-windows\buoi2.genruntimeconfig.cache
+C:\DAI HOC CONG NGHE SAI GON STU\xaydungphanmenwindow\buoi2\buoi2\buoi2\obj\Debug\net6.0-windows\ref\buoi2.dll
+C:\DAI HOC CONG NGHE SAI GON STU\xaydungphanmenwindow\buoi2\buoi2\buoi2\obj\Debug\net6.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\DAI HOC CONG NGHE SAI GON STU\xaydungphanmenwindow\buoi2\buoi2\buoi2\obj\Debug\net6.0-windows\UI\WindowHoaDon.g.cs
+C:\DAI HOC CONG NGHE SAI GON STU\xaydungphanmenwindow\buoi2\buoi2\buoi2\obj\Debug\net6.0-windows\UI\WindowHoaDon.baml
+D:\Học tập\Giao trình\XDPM_Windows\buoi2\buoi2\buoi2\bin\Debug\net6.0-windows\buoi2.exe
+D:\Học tập\Giao trình\XDPM_Windows\buoi2\buoi2\buoi2\bin\Debug\net6.0-windows\buoi2.deps.json
+D:\Học tập\Giao trình\XDPM_Windows\buoi2\buoi2\buoi2\bin\Debug\net6.0-windows\buoi2.runtimeconfig.json
+D:\Học tập\Giao trình\XDPM_Windows\buoi2\buoi2\buoi2\bin\Debug\net6.0-windows\buoi2.dll
+D:\Học tập\Giao trình\XDPM_Windows\buoi2\buoi2\buoi2\bin\Debug\net6.0-windows\buoi2.pdb
+D:\Học tập\Giao trình\XDPM_Windows\buoi2\buoi2\buoi2\bin\Debug\net6.0-windows\Humanizer.dll
+D:\Học tập\Giao trình\XDPM_Windows\buoi2\buoi2\buoi2\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+D:\Học tập\Giao trình\XDPM_Windows\buoi2\buoi2\buoi2\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+D:\Học tập\Giao trình\XDPM_Windows\buoi2\buoi2\buoi2\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Học tập\Giao trình\XDPM_Windows\buoi2\buoi2\buoi2\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+D:\Học tập\Giao trình\XDPM_Windows\buoi2\buoi2\buoi2\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Học tập\Giao trình\XDPM_Windows\buoi2\buoi2\buoi2\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Học tập\Giao trình\XDPM_Windows\buoi2\buoi2\buoi2\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Học tập\Giao trình\XDPM_Windows\buoi2\buoi2\buoi2\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+D:\Học tập\Giao trình\XDPM_Windows\buoi2\buoi2\buoi2\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Học tập\Giao trình\XDPM_Windows\buoi2\buoi2\buoi2\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+D:\Học tập\Giao trình\XDPM_Windows\buoi2\buoi2\buoi2\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Học tập\Giao trình\XDPM_Windows\buoi2\buoi2\buoi2\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+D:\Học tập\Giao trình\XDPM_Windows\buoi2\buoi2\buoi2\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Học tập\Giao trình\XDPM_Windows\buoi2\buoi2\buoi2\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+D:\Học tập\Giao trình\XDPM_Windows\buoi2\buoi2\buoi2\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+D:\Học tập\Giao trình\XDPM_Windows\buoi2\buoi2\buoi2\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+D:\Học tập\Giao trình\XDPM_Windows\buoi2\buoi2\buoi2\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Học tập\Giao trình\XDPM_Windows\buoi2\buoi2\buoi2\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+D:\Học tập\Giao trình\XDPM_Windows\buoi2\buoi2\buoi2\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+D:\Học tập\Giao trình\XDPM_Windows\buoi2\buoi2\buoi2\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Học tập\Giao trình\XDPM_Windows\buoi2\buoi2\buoi2\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+D:\Học tập\Giao trình\XDPM_Windows\buoi2\buoi2\buoi2\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+D:\Học tập\Giao trình\XDPM_Windows\buoi2\buoi2\buoi2\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+D:\Học tập\Giao trình\XDPM_Windows\buoi2\buoi2\buoi2\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Học tập\Giao trình\XDPM_Windows\buoi2\buoi2\buoi2\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Học tập\Giao trình\XDPM_Windows\buoi2\buoi2\buoi2\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Học tập\Giao trình\XDPM_Windows\buoi2\buoi2\buoi2\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Học tập\Giao trình\XDPM_Windows\buoi2\buoi2\buoi2\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Học tập\Giao trình\XDPM_Windows\buoi2\buoi2\buoi2\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Học tập\Giao trình\XDPM_Windows\buoi2\buoi2\buoi2\bin\Debug\net6.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Học tập\Giao trình\XDPM_Windows\buoi2\buoi2\buoi2\obj\Debug\net6.0-windows\buoi2.csproj.AssemblyReference.cache
+D:\Học tập\Giao trình\XDPM_Windows\buoi2\buoi2\buoi2\obj\Debug\net6.0-windows\MainWindow.g.cs
+D:\Học tập\Giao trình\XDPM_Windows\buoi2\buoi2\buoi2\obj\Debug\net6.0-windows\UI\WindowHangHoa.g.cs
+D:\Học tập\Giao trình\XDPM_Windows\buoi2\buoi2\buoi2\obj\Debug\net6.0-windows\UI\WindowHoaDon.g.cs
+D:\Học tập\Giao trình\XDPM_Windows\buoi2\buoi2\buoi2\obj\Debug\net6.0-windows\App.g.cs
+D:\Học tập\Giao trình\XDPM_Windows\buoi2\buoi2\buoi2\obj\Debug\net6.0-windows\GeneratedInternalTypeHelper.g.cs
+D:\Học tập\Giao trình\XDPM_Windows\buoi2\buoi2\buoi2\obj\Debug\net6.0-windows\buoi2_MarkupCompile.cache
+D:\Học tập\Giao trình\XDPM_Windows\buoi2\buoi2\buoi2\obj\Debug\net6.0-windows\buoi2_MarkupCompile.lref
+D:\Học tập\Giao trình\XDPM_Windows\buoi2\buoi2\buoi2\obj\Debug\net6.0-windows\MainWindow.baml
+D:\Học tập\Giao trình\XDPM_Windows\buoi2\buoi2\buoi2\obj\Debug\net6.0-windows\UI\WindowHangHoa.baml
+D:\Học tập\Giao trình\XDPM_Windows\buoi2\buoi2\buoi2\obj\Debug\net6.0-windows\UI\WindowHoaDon.baml
+D:\Học tập\Giao trình\XDPM_Windows\buoi2\buoi2\buoi2\obj\Debug\net6.0-windows\buoi2.g.resources
+D:\Học tập\Giao trình\XDPM_Windows\buoi2\buoi2\buoi2\obj\Debug\net6.0-windows\buoi2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Học tập\Giao trình\XDPM_Windows\buoi2\buoi2\buoi2\obj\Debug\net6.0-windows\buoi2.AssemblyInfoInputs.cache
+D:\Học tập\Giao trình\XDPM_Windows\buoi2\buoi2\buoi2\obj\Debug\net6.0-windows\buoi2.AssemblyInfo.cs
+D:\Học tập\Giao trình\XDPM_Windows\buoi2\buoi2\buoi2\obj\Debug\net6.0-windows\buoi2.csproj.CoreCompileInputs.cache
+D:\Học tập\Giao trình\XDPM_Windows\buoi2\buoi2\buoi2\obj\Debug\net6.0-windows\buoi2.csproj.Up2Date
+D:\Học tập\Giao trình\XDPM_Windows\buoi2\buoi2\buoi2\obj\Debug\net6.0-windows\buoi2.dll
+D:\Học tập\Giao trình\XDPM_Windows\buoi2\buoi2\buoi2\obj\Debug\net6.0-windows\refint\buoi2.dll
+D:\Học tập\Giao trình\XDPM_Windows\buoi2\buoi2\buoi2\obj\Debug\net6.0-windows\buoi2.pdb
+D:\Học tập\Giao trình\XDPM_Windows\buoi2\buoi2\buoi2\obj\Debug\net6.0-windows\buoi2.genruntimeconfig.cache
+D:\Học tập\Giao trình\XDPM_Windows\buoi2\buoi2\buoi2\obj\Debug\net6.0-windows\ref\buoi2.dll
+D:\Học tập\Giao trình\XDPM_Windows\buoi2\buoi2\buoi2\obj\Debug\net6.0-windows\UI\WindowHangHoaMVVM.g.cs
+D:\Học tập\Giao trình\XDPM_Windows\buoi2\buoi2\buoi2\obj\Debug\net6.0-windows\UI\WindowHangHoaMVVM.baml
+D:\Học tập\Giao trình\XDPM_Windows\buoi2\buoi2\buoi2\obj\Debug\net6.0-windows\App.baml
+D:\WinDow\WPF\Lib\buoi2\buoi2\buoi2\bin\Debug\net6.0-windows\buoi2.exe
+D:\WinDow\WPF\Lib\buoi2\buoi2\buoi2\bin\Debug\net6.0-windows\buoi2.deps.json
+D:\WinDow\WPF\Lib\buoi2\buoi2\buoi2\bin\Debug\net6.0-windows\buoi2.runtimeconfig.json
+D:\WinDow\WPF\Lib\buoi2\buoi2\buoi2\bin\Debug\net6.0-windows\buoi2.dll
+D:\WinDow\WPF\Lib\buoi2\buoi2\buoi2\bin\Debug\net6.0-windows\buoi2.pdb
+D:\WinDow\WPF\Lib\buoi2\buoi2\buoi2\bin\Debug\net6.0-windows\Humanizer.dll
+D:\WinDow\WPF\Lib\buoi2\buoi2\buoi2\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+D:\WinDow\WPF\Lib\buoi2\buoi2\buoi2\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+D:\WinDow\WPF\Lib\buoi2\buoi2\buoi2\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\WinDow\WPF\Lib\buoi2\buoi2\buoi2\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+D:\WinDow\WPF\Lib\buoi2\buoi2\buoi2\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+D:\WinDow\WPF\Lib\buoi2\buoi2\buoi2\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\WinDow\WPF\Lib\buoi2\buoi2\buoi2\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+D:\WinDow\WPF\Lib\buoi2\buoi2\buoi2\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+D:\WinDow\WPF\Lib\buoi2\buoi2\buoi2\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\WinDow\WPF\Lib\buoi2\buoi2\buoi2\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+D:\WinDow\WPF\Lib\buoi2\buoi2\buoi2\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\WinDow\WPF\Lib\buoi2\buoi2\buoi2\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+D:\WinDow\WPF\Lib\buoi2\buoi2\buoi2\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\WinDow\WPF\Lib\buoi2\buoi2\buoi2\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+D:\WinDow\WPF\Lib\buoi2\buoi2\buoi2\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+D:\WinDow\WPF\Lib\buoi2\buoi2\buoi2\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+D:\WinDow\WPF\Lib\buoi2\buoi2\buoi2\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\WinDow\WPF\Lib\buoi2\buoi2\buoi2\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+D:\WinDow\WPF\Lib\buoi2\buoi2\buoi2\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+D:\WinDow\WPF\Lib\buoi2\buoi2\buoi2\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\WinDow\WPF\Lib\buoi2\buoi2\buoi2\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+D:\WinDow\WPF\Lib\buoi2\buoi2\buoi2\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+D:\WinDow\WPF\Lib\buoi2\buoi2\buoi2\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+D:\WinDow\WPF\Lib\buoi2\buoi2\buoi2\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\WinDow\WPF\Lib\buoi2\buoi2\buoi2\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\WinDow\WPF\Lib\buoi2\buoi2\buoi2\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\WinDow\WPF\Lib\buoi2\buoi2\buoi2\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\WinDow\WPF\Lib\buoi2\buoi2\buoi2\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\WinDow\WPF\Lib\buoi2\buoi2\buoi2\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\WinDow\WPF\Lib\buoi2\buoi2\buoi2\bin\Debug\net6.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\WinDow\WPF\Lib\buoi2\buoi2\buoi2\obj\Debug\net6.0-windows\buoi2.csproj.AssemblyReference.cache
+D:\WinDow\WPF\Lib\buoi2\buoi2\buoi2\obj\Debug\net6.0-windows\MainWindow.g.cs
+D:\WinDow\WPF\Lib\buoi2\buoi2\buoi2\obj\Debug\net6.0-windows\UI\WindowHangHoa.g.cs
+D:\WinDow\WPF\Lib\buoi2\buoi2\buoi2\obj\Debug\net6.0-windows\UI\WindowHangHoaMVVM.g.cs
+D:\WinDow\WPF\Lib\buoi2\buoi2\buoi2\obj\Debug\net6.0-windows\UI\WindowHoaDon.g.cs
+D:\WinDow\WPF\Lib\buoi2\buoi2\buoi2\obj\Debug\net6.0-windows\App.g.cs
+D:\WinDow\WPF\Lib\buoi2\buoi2\buoi2\obj\Debug\net6.0-windows\GeneratedInternalTypeHelper.g.cs
+D:\WinDow\WPF\Lib\buoi2\buoi2\buoi2\obj\Debug\net6.0-windows\buoi2_MarkupCompile.cache
+D:\WinDow\WPF\Lib\buoi2\buoi2\buoi2\obj\Debug\net6.0-windows\buoi2_MarkupCompile.lref
+D:\WinDow\WPF\Lib\buoi2\buoi2\buoi2\obj\Debug\net6.0-windows\App.baml
+D:\WinDow\WPF\Lib\buoi2\buoi2\buoi2\obj\Debug\net6.0-windows\MainWindow.baml
+D:\WinDow\WPF\Lib\buoi2\buoi2\buoi2\obj\Debug\net6.0-windows\UI\WindowHangHoa.baml
+D:\WinDow\WPF\Lib\buoi2\buoi2\buoi2\obj\Debug\net6.0-windows\UI\WindowHangHoaMVVM.baml
+D:\WinDow\WPF\Lib\buoi2\buoi2\buoi2\obj\Debug\net6.0-windows\UI\WindowHoaDon.baml
+D:\WinDow\WPF\Lib\buoi2\buoi2\buoi2\obj\Debug\net6.0-windows\buoi2.g.resources
+D:\WinDow\WPF\Lib\buoi2\buoi2\buoi2\obj\Debug\net6.0-windows\buoi2.GeneratedMSBuildEditorConfig.editorconfig
+D:\WinDow\WPF\Lib\buoi2\buoi2\buoi2\obj\Debug\net6.0-windows\buoi2.AssemblyInfoInputs.cache
+D:\WinDow\WPF\Lib\buoi2\buoi2\buoi2\obj\Debug\net6.0-windows\buoi2.AssemblyInfo.cs
+D:\WinDow\WPF\Lib\buoi2\buoi2\buoi2\obj\Debug\net6.0-windows\buoi2.csproj.CoreCompileInputs.cache
+D:\WinDow\WPF\Lib\buoi2\buoi2\buoi2\obj\Debug\net6.0-windows\buoi2.csproj.Up2Date
+D:\WinDow\WPF\Lib\buoi2\buoi2\buoi2\obj\Debug\net6.0-windows\buoi2.dll
+D:\WinDow\WPF\Lib\buoi2\buoi2\buoi2\obj\Debug\net6.0-windows\refint\buoi2.dll
+D:\WinDow\WPF\Lib\buoi2\buoi2\buoi2\obj\Debug\net6.0-windows\buoi2.pdb
+D:\WinDow\WPF\Lib\buoi2\buoi2\buoi2\obj\Debug\net6.0-windows\buoi2.genruntimeconfig.cache
+D:\WinDow\WPF\Lib\buoi2\buoi2\buoi2\obj\Debug\net6.0-windows\ref\buoi2.dll

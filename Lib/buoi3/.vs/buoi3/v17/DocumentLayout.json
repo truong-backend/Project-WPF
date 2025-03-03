@@ -1,0 +1,178 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\WinDow\\WPF\\Lib\\buoi3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{756BDB6B-4DA6-43CC-8CA9-CF6D7FAEDCB2}|buoi3\\buoi3.csproj|d:\\window\\wpf\\lib\\buoi3\\buoi3\\ui\\windowhocvien.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{756BDB6B-4DA6-43CC-8CA9-CF6D7FAEDCB2}|buoi3\\buoi3.csproj|solutionrelative:buoi3\\ui\\windowhocvien.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{756BDB6B-4DA6-43CC-8CA9-CF6D7FAEDCB2}|buoi3\\buoi3.csproj|d:\\window\\wpf\\lib\\buoi3\\buoi3\\ui\\windowhocvien.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{756BDB6B-4DA6-43CC-8CA9-CF6D7FAEDCB2}|buoi3\\buoi3.csproj|solutionrelative:buoi3\\ui\\windowhocvien.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{756BDB6B-4DA6-43CC-8CA9-CF6D7FAEDCB2}|buoi3\\buoi3.csproj|d:\\window\\wpf\\lib\\buoi3\\buoi3\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{756BDB6B-4DA6-43CC-8CA9-CF6D7FAEDCB2}|buoi3\\buoi3.csproj|solutionrelative:buoi3\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{756BDB6B-4DA6-43CC-8CA9-CF6D7FAEDCB2}|buoi3\\buoi3.csproj|d:\\window\\wpf\\lib\\buoi3\\buoi3\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{756BDB6B-4DA6-43CC-8CA9-CF6D7FAEDCB2}|buoi3\\buoi3.csproj|solutionrelative:buoi3\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{756BDB6B-4DA6-43CC-8CA9-CF6D7FAEDCB2}|buoi3\\buoi3.csproj|d:\\window\\wpf\\lib\\buoi3\\buoi3\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{756BDB6B-4DA6-43CC-8CA9-CF6D7FAEDCB2}|buoi3\\buoi3.csproj|solutionrelative:buoi3\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{756BDB6B-4DA6-43CC-8CA9-CF6D7FAEDCB2}|buoi3\\buoi3.csproj|d:\\window\\wpf\\lib\\buoi3\\buoi3\\mymodels\\chocvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{756BDB6B-4DA6-43CC-8CA9-CF6D7FAEDCB2}|buoi3\\buoi3.csproj|solutionrelative:buoi3\\mymodels\\chocvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{756BDB6B-4DA6-43CC-8CA9-CF6D7FAEDCB2}|buoi3\\buoi3.csproj|d:\\window\\wpf\\lib\\buoi3\\buoi3\\models\\qlhvcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{756BDB6B-4DA6-43CC-8CA9-CF6D7FAEDCB2}|buoi3\\buoi3.csproj|solutionrelative:buoi3\\models\\qlhvcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{756BDB6B-4DA6-43CC-8CA9-CF6D7FAEDCB2}|buoi3\\buoi3.csproj|d:\\window\\wpf\\lib\\buoi3\\buoi3\\models\\lop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{756BDB6B-4DA6-43CC-8CA9-CF6D7FAEDCB2}|buoi3\\buoi3.csproj|solutionrelative:buoi3\\models\\lop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{756BDB6B-4DA6-43CC-8CA9-CF6D7FAEDCB2}|buoi3\\buoi3.csproj|d:\\window\\wpf\\lib\\buoi3\\buoi3\\mymodels\\clop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{756BDB6B-4DA6-43CC-8CA9-CF6D7FAEDCB2}|buoi3\\buoi3.csproj|solutionrelative:buoi3\\mymodels\\clop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{756BDB6B-4DA6-43CC-8CA9-CF6D7FAEDCB2}|buoi3\\buoi3.csproj|d:\\window\\wpf\\lib\\buoi3\\buoi3\\migrations\\20250217062335_qlhvwpf.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{756BDB6B-4DA6-43CC-8CA9-CF6D7FAEDCB2}|buoi3\\buoi3.csproj|solutionrelative:buoi3\\migrations\\20250217062335_qlhvwpf.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 193,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WindowHocVien.xaml.cs",
+              "DocumentMoniker": "D:\\WinDow\\WPF\\Lib\\buoi3\\buoi3\\UI\\WindowHocVien.xaml.cs",
+              "RelativeDocumentMoniker": "buoi3\\UI\\WindowHocVien.xaml.cs",
+              "ToolTip": "D:\\WinDow\\WPF\\Lib\\buoi3\\buoi3\\UI\\WindowHocVien.xaml.cs",
+              "RelativeToolTip": "buoi3\\UI\\WindowHocVien.xaml.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAgwGAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T06:29:48.546Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WindowHocVien.xaml",
+              "DocumentMoniker": "D:\\WinDow\\WPF\\Lib\\buoi3\\buoi3\\UI\\WindowHocVien.xaml",
+              "RelativeDocumentMoniker": "buoi3\\UI\\WindowHocVien.xaml",
+              "ToolTip": "D:\\WinDow\\WPF\\Lib\\buoi3\\buoi3\\UI\\WindowHocVien.xaml",
+              "RelativeToolTip": "buoi3\\UI\\WindowHocVien.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-02-18T13:10:23.942Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Lop.cs",
+              "DocumentMoniker": "D:\\WinDow\\WPF\\Lib\\buoi3\\buoi3\\Models\\Lop.cs",
+              "RelativeDocumentMoniker": "buoi3\\Models\\Lop.cs",
+              "ToolTip": "D:\\WinDow\\WPF\\Lib\\buoi3\\buoi3\\Models\\Lop.cs",
+              "RelativeToolTip": "buoi3\\Models\\Lop.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwA8AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T07:36:10.117Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CLop.cs",
+              "DocumentMoniker": "D:\\WinDow\\WPF\\Lib\\buoi3\\buoi3\\MyModels\\CLop.cs",
+              "RelativeDocumentMoniker": "buoi3\\MyModels\\CLop.cs",
+              "ToolTip": "D:\\WinDow\\WPF\\Lib\\buoi3\\buoi3\\MyModels\\CLop.cs",
+              "RelativeToolTip": "buoi3\\MyModels\\CLop.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA0AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T07:50:03.515Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "qlhvContext.cs",
+              "DocumentMoniker": "D:\\WinDow\\WPF\\Lib\\buoi3\\buoi3\\Models\\qlhvContext.cs",
+              "RelativeDocumentMoniker": "buoi3\\Models\\qlhvContext.cs",
+              "ToolTip": "D:\\WinDow\\WPF\\Lib\\buoi3\\buoi3\\Models\\qlhvContext.cs",
+              "RelativeToolTip": "buoi3\\Models\\qlhvContext.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAADgvx8AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T06:22:31.631Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "App.xaml",
+              "DocumentMoniker": "D:\\WinDow\\WPF\\Lib\\buoi3\\buoi3\\App.xaml",
+              "RelativeDocumentMoniker": "buoi3\\App.xaml",
+              "ToolTip": "D:\\WinDow\\WPF\\Lib\\buoi3\\buoi3\\App.xaml",
+              "RelativeToolTip": "buoi3\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-02-17T07:49:56.462Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\WinDow\\WPF\\Lib\\buoi3\\buoi3\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "buoi3\\MainWindow.xaml",
+              "ToolTip": "D:\\WinDow\\WPF\\Lib\\buoi3\\buoi3\\MainWindow.xaml",
+              "RelativeToolTip": "buoi3\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-02-17T06:15:02.128Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CHocVien.cs",
+              "DocumentMoniker": "D:\\WinDow\\WPF\\Lib\\buoi3\\buoi3\\MyModels\\CHocVien.cs",
+              "RelativeDocumentMoniker": "buoi3\\MyModels\\CHocVien.cs",
+              "ToolTip": "D:\\WinDow\\WPF\\Lib\\buoi3\\buoi3\\MyModels\\CHocVien.cs",
+              "RelativeToolTip": "buoi3\\MyModels\\CHocVien.cs",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAcwCgAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T12:50:36.889Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\WinDow\\WPF\\Lib\\buoi3\\buoi3\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "buoi3\\MainWindow.xaml.cs",
+              "ToolTip": "D:\\WinDow\\WPF\\Lib\\buoi3\\buoi3\\MainWindow.xaml.cs",
+              "RelativeToolTip": "buoi3\\MainWindow.xaml.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAwBoAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T06:14:42.401Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "20250217062335_qlhvwpf.cs",
+              "DocumentMoniker": "D:\\WinDow\\WPF\\Lib\\buoi3\\buoi3\\Migrations\\20250217062335_qlhvwpf.cs",
+              "RelativeDocumentMoniker": "buoi3\\Migrations\\20250217062335_qlhvwpf.cs",
+              "ToolTip": "D:\\WinDow\\WPF\\Lib\\buoi3\\buoi3\\Migrations\\20250217062335_qlhvwpf.cs",
+              "RelativeToolTip": "buoi3\\Migrations\\20250217062335_qlhvwpf.cs",
+              "ViewState": "AgIAAE8AAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T06:23:35.967Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

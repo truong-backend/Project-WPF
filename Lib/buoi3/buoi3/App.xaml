@@ -1,0 +1,14 @@
+﻿<Application x:Class="buoi3.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:buoi3"
+             xmlns:localMyModels="clr-namespace:buoi3.MyModels"
+             StartupUri="MainWindow.xaml">
+    <Application.Resources>
+        <x:Array Type="localMyModels:CPhai" x:Key="rsPhai">
+            <localMyModels:CPhai value="Nam" key="True"/>
+            <localMyModels:CPhai value= "Nữ" key="False"/>
+        </x:Array>
+        <localMyModels:CHocVien x:Key="rsHocVien"/>
+    </Application.Resources>
+</Application>

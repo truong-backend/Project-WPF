@@ -1,0 +1,14 @@
+﻿<Application x:Class="demo2.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:demo2"
+             xmlns:localMyModels="clr-namespace:demo2.MyModels"
+             StartupUri="MainWindow.xaml">
+    <Application.Resources>
+        <x:Array x:Key="rsPhai" Type="localMyModels:CPhai">
+            <localMyModels:CPhai key="True" value="Nam"/>
+            <localMyModels:CPhai key="False" value="Nữ"/>
+        </x:Array>
+        <localMyModels:CHocVien x:Key="rsHocvien"/>
+    </Application.Resources>
+</Application>

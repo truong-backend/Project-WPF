@@ -1,0 +1,66 @@
+﻿<Window x:Class="Hoadon.UI.Windowhanghoa"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Hoadon.UI"
+        xmlns:localModels="clr-namespace:Hoadon.Models"
+        mc:Ignorable="d"
+        Title="Windowhanghoa" Height="450" Width="800" Loaded="Window_Loaded">
+    <!--lệnh thêm-->
+    <Window.CommandBindings>
+        <CommandBinding x:Name="lenhThem" Command="local:Windowhanghoa.lenhthem" Executed="lenhThem_Executed" CanExecute="lenhThem_CanExecute"/>
+
+        <CommandBinding x:Name="lenhXoa" Command="local:Windowhanghoa.lenhxoa" Executed="lenhXoa_Executed" CanExecute="lenhXoa_CanExecute"/>
+
+        <CommandBinding x:Name="lenhSua" Command="local:Windowhanghoa.lenhsua" Executed="lenhSua_Executed" CanExecute="lenhSua_CanExecute"/>
+        <!--phát sinh ra 2 phương thức-->
+    </Window.CommandBindings>
+    
+    <Window.Resources>
+        <localModels:Hanghoa x:Key="rsHangHoa"/>
+    </Window.Resources>
+    <StackPanel>
+        <Label Content="Quản lý hàng hóa" FontSize="28" FontWeight="Bold" HorizontalAlignment="Center"/>
+        <Grid x:Name="gridHangHoa" DataContext="{StaticResource rsHangHoa}">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition/>
+                <ColumnDefinition/>
+                <ColumnDefinition/>
+                <ColumnDefinition/>
+                <ColumnDefinition/>
+            </Grid.ColumnDefinitions>
+            <Grid.RowDefinitions>
+                <RowDefinition/>
+                <RowDefinition/>
+                <RowDefinition/>
+                <RowDefinition/>
+                <RowDefinition/>
+            </Grid.RowDefinitions>
+            <TextBlock Grid.Row="0" Grid.Column="1" Text="Mã hàng"/>
+            <TextBlock Grid.Row="1" Grid.Column="1" Text="Tên hàng"/>
+            <TextBlock Grid.Row="2" Grid.Column="1" Text="Đơn vị tính"/>
+            <TextBlock Grid.Row="3" Grid.Column="1" Text="Đơn giá"/>
+            <!--liên kết các data với text-->
+            <TextBox Grid.Row="0" Grid.Column="2" Text="{Binding Mahang}"/>
+            <TextBox Grid.Row="1" Grid.Column="2" Text="{Binding Tenhang}"/>
+            <TextBox Grid.Row="2" Grid.Column="2" Text="{Binding Dvt}"/>
+            <TextBox Grid.Row="3" Grid.Column="2" Text="{Binding Dongia}"/>
+            
+            <!--liên kết giữa nút lệnh và nút thêm-->
+            <Button Grid.Row="0" Grid.Column="3" Content="Thêm" Command="local:Windowhanghoa.lenhthem" />
+            <Button Grid.Row="1" Grid.Column="3" Content="Xóa" Command="local:Windowhanghoa.lenhxoa"/>
+            <Button Grid.Row="2" Grid.Column="3" Content="Sửa" Command="local:Windowhanghoa.lenhsua"/>
+        </Grid>
+        <!--đặt tên đối tượng-->
+        <DataGrid  x:Name="dghanghoa" AutoGenerateColumns="False" IsReadOnly="True" SelectionChanged="dghanghoa_SelectionChanged" >
+            <DataGrid.Columns>
+                <!--liên kết với từng cột-->
+                <DataGridTextColumn Header="Mã hàng" Binding="{Binding Mahang}"/>
+                <DataGridTextColumn Header="Tên hàng" Binding="{Binding Tenhang}"/>
+                <DataGridTextColumn Header="Đơn vị tính" Binding="{Binding Dvt}"/>
+                <DataGridTextColumn Header="Đơn giá" Binding="{Binding Dongia}"/>
+            </DataGrid.Columns>
+        </DataGrid>
+    </StackPanel>
+</Window>

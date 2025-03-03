@@ -1,0 +1,200 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\wpfsql\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3D437344-ACC4-4423-ABE0-01E01911A9C4}|wpfsql\\wpfsql.csproj|d:\\wpfsql\\wpfsql\\ui\\windowhanghoa.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D437344-ACC4-4423-ABE0-01E01911A9C4}|wpfsql\\wpfsql.csproj|solutionrelative:wpfsql\\ui\\windowhanghoa.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D437344-ACC4-4423-ABE0-01E01911A9C4}|wpfsql\\wpfsql.csproj|d:\\wpfsql\\wpfsql\\ui\\windowhanghoa.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{3D437344-ACC4-4423-ABE0-01E01911A9C4}|wpfsql\\wpfsql.csproj|solutionrelative:wpfsql\\ui\\windowhanghoa.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D437344-ACC4-4423-ABE0-01E01911A9C4}|wpfsql\\wpfsql.csproj|d:\\wpfsql\\wpfsql\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D437344-ACC4-4423-ABE0-01E01911A9C4}|wpfsql\\wpfsql.csproj|solutionrelative:wpfsql\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D437344-ACC4-4423-ABE0-01E01911A9C4}|wpfsql\\wpfsql.csproj|d:\\wpfsql\\wpfsql\\models\\hanghoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D437344-ACC4-4423-ABE0-01E01911A9C4}|wpfsql\\wpfsql.csproj|solutionrelative:wpfsql\\models\\hanghoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D437344-ACC4-4423-ABE0-01E01911A9C4}|wpfsql\\wpfsql.csproj|d:\\wpfsql\\wpfsql\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{3D437344-ACC4-4423-ABE0-01E01911A9C4}|wpfsql\\wpfsql.csproj|solutionrelative:wpfsql\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D437344-ACC4-4423-ABE0-01E01911A9C4}|wpfsql\\wpfsql.csproj|d:\\wpfsql\\wpfsql\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D437344-ACC4-4423-ABE0-01E01911A9C4}|wpfsql\\wpfsql.csproj|solutionrelative:wpfsql\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D437344-ACC4-4423-ABE0-01E01911A9C4}|wpfsql\\wpfsql.csproj|d:\\wpfsql\\wpfsql\\wpfsql.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{3D437344-ACC4-4423-ABE0-01E01911A9C4}|wpfsql\\wpfsql.csproj|solutionrelative:wpfsql\\wpfsql.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D437344-ACC4-4423-ABE0-01E01911A9C4}|wpfsql\\wpfsql.csproj|d:\\wpfsql\\wpfsql\\models\\chitiethoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D437344-ACC4-4423-ABE0-01E01911A9C4}|wpfsql\\wpfsql.csproj|solutionrelative:wpfsql\\models\\chitiethoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D437344-ACC4-4423-ABE0-01E01911A9C4}|wpfsql\\wpfsql.csproj|d:\\wpfsql\\wpfsql\\models\\hoadoncontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D437344-ACC4-4423-ABE0-01E01911A9C4}|wpfsql\\wpfsql.csproj|solutionrelative:wpfsql\\models\\hoadoncontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D437344-ACC4-4423-ABE0-01E01911A9C4}|wpfsql\\wpfsql.csproj|d:\\wpfsql\\wpfsql\\models\\hoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D437344-ACC4-4423-ABE0-01E01911A9C4}|wpfsql\\wpfsql.csproj|solutionrelative:wpfsql\\models\\hoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 193,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WindowHangHoa.xaml.cs",
+              "DocumentMoniker": "D:\\wpfsql\\wpfsql\\UI\\WindowHangHoa.xaml.cs",
+              "RelativeDocumentMoniker": "wpfsql\\UI\\WindowHangHoa.xaml.cs",
+              "ToolTip": "D:\\wpfsql\\wpfsql\\UI\\WindowHangHoa.xaml.cs",
+              "RelativeToolTip": "wpfsql\\UI\\WindowHangHoa.xaml.cs",
+              "ViewState": "AgIAAGkAAAAAAAAAAAAgwGwAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T07:24:57.441Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WindowHangHoa.xaml",
+              "DocumentMoniker": "D:\\wpfsql\\wpfsql\\UI\\WindowHangHoa.xaml",
+              "RelativeDocumentMoniker": "wpfsql\\UI\\WindowHangHoa.xaml",
+              "ToolTip": "D:\\wpfsql\\wpfsql\\UI\\WindowHangHoa.xaml",
+              "RelativeToolTip": "wpfsql\\UI\\WindowHangHoa.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-02-14T07:20:25.605Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\wpfsql\\wpfsql\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "wpfsql\\MainWindow.xaml",
+              "ToolTip": "D:\\wpfsql\\wpfsql\\MainWindow.xaml",
+              "RelativeToolTip": "wpfsql\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-02-14T06:18:34.904Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\wpfsql\\wpfsql\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "wpfsql\\MainWindow.xaml.cs",
+              "ToolTip": "D:\\wpfsql\\wpfsql\\MainWindow.xaml.cs",
+              "RelativeToolTip": "wpfsql\\MainWindow.xaml.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAQwBsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T06:18:26.074Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Hanghoa.cs",
+              "DocumentMoniker": "D:\\wpfsql\\wpfsql\\Models\\Hanghoa.cs",
+              "RelativeDocumentMoniker": "wpfsql\\Models\\Hanghoa.cs",
+              "ToolTip": "D:\\wpfsql\\wpfsql\\Models\\Hanghoa.cs",
+              "RelativeToolTip": "wpfsql\\Models\\Hanghoa.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwAUAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T06:37:13.479Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "D:\\wpfsql\\wpfsql\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "wpfsql\\AssemblyInfo.cs",
+              "ToolTip": "D:\\wpfsql\\wpfsql\\AssemblyInfo.cs",
+              "RelativeToolTip": "wpfsql\\AssemblyInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T07:29:35.335Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Hoadon.cs",
+              "DocumentMoniker": "D:\\wpfsql\\wpfsql\\Models\\Hoadon.cs",
+              "RelativeDocumentMoniker": "wpfsql\\Models\\Hoadon.cs",
+              "ToolTip": "D:\\wpfsql\\wpfsql\\Models\\Hoadon.cs",
+              "RelativeToolTip": "wpfsql\\Models\\Hoadon.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T06:37:26.788Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "hoadonContext.cs",
+              "DocumentMoniker": "D:\\wpfsql\\wpfsql\\Models\\hoadonContext.cs",
+              "RelativeDocumentMoniker": "wpfsql\\Models\\hoadonContext.cs",
+              "ToolTip": "D:\\wpfsql\\wpfsql\\Models\\hoadonContext.cs",
+              "RelativeToolTip": "wpfsql\\Models\\hoadonContext.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAYwB0AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T06:37:32.023Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "wpfsql",
+              "DocumentMoniker": "D:\\wpfsql\\wpfsql\\wpfsql.csproj",
+              "RelativeDocumentMoniker": "wpfsql\\wpfsql.csproj",
+              "ToolTip": "D:\\wpfsql\\wpfsql\\wpfsql.csproj",
+              "RelativeToolTip": "wpfsql\\wpfsql.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-14T07:19:39.099Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Chitiethoadon.cs",
+              "DocumentMoniker": "D:\\wpfsql\\wpfsql\\Models\\Chitiethoadon.cs",
+              "RelativeDocumentMoniker": "wpfsql\\Models\\Chitiethoadon.cs",
+              "ToolTip": "D:\\wpfsql\\wpfsql\\Models\\Chitiethoadon.cs",
+              "RelativeToolTip": "wpfsql\\Models\\Chitiethoadon.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T06:36:57.856Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

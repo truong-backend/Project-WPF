@@ -1,0 +1,164 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\WinDow\\WPF\\Lib\\hoadon\\hoadon\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D6E7560B-2DC7-4A0C-924B-323832956DA9}|Hoadon\\Hoadon.csproj|d:\\window\\wpf\\lib\\hoadon\\hoadon\\hoadon\\ui\\windowhoadon.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{D6E7560B-2DC7-4A0C-924B-323832956DA9}|Hoadon\\Hoadon.csproj|solutionrelative:hoadon\\ui\\windowhoadon.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6E7560B-2DC7-4A0C-924B-323832956DA9}|Hoadon\\Hoadon.csproj|d:\\window\\wpf\\lib\\hoadon\\hoadon\\hoadon\\ui\\windowhoadon.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6E7560B-2DC7-4A0C-924B-323832956DA9}|Hoadon\\Hoadon.csproj|solutionrelative:hoadon\\ui\\windowhoadon.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6E7560B-2DC7-4A0C-924B-323832956DA9}|Hoadon\\Hoadon.csproj|d:\\window\\wpf\\lib\\hoadon\\hoadon\\hoadon\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6E7560B-2DC7-4A0C-924B-323832956DA9}|Hoadon\\Hoadon.csproj|solutionrelative:hoadon\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6E7560B-2DC7-4A0C-924B-323832956DA9}|Hoadon\\Hoadon.csproj|d:\\window\\wpf\\lib\\hoadon\\hoadon\\hoadon\\ui\\windowhanghoa.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{D6E7560B-2DC7-4A0C-924B-323832956DA9}|Hoadon\\Hoadon.csproj|solutionrelative:hoadon\\ui\\windowhanghoa.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6E7560B-2DC7-4A0C-924B-323832956DA9}|Hoadon\\Hoadon.csproj|d:\\window\\wpf\\lib\\hoadon\\hoadon\\hoadon\\mymodels\\choadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6E7560B-2DC7-4A0C-924B-323832956DA9}|Hoadon\\Hoadon.csproj|solutionrelative:hoadon\\mymodels\\choadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6E7560B-2DC7-4A0C-924B-323832956DA9}|Hoadon\\Hoadon.csproj|d:\\window\\wpf\\lib\\hoadon\\hoadon\\hoadon\\mymodels\\cchitiethoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6E7560B-2DC7-4A0C-924B-323832956DA9}|Hoadon\\Hoadon.csproj|solutionrelative:hoadon\\mymodels\\cchitiethoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6E7560B-2DC7-4A0C-924B-323832956DA9}|Hoadon\\Hoadon.csproj|d:\\window\\wpf\\lib\\hoadon\\hoadon\\hoadon\\models\\hoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6E7560B-2DC7-4A0C-924B-323832956DA9}|Hoadon\\Hoadon.csproj|solutionrelative:hoadon\\models\\hoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6E7560B-2DC7-4A0C-924B-323832956DA9}|Hoadon\\Hoadon.csproj|d:\\window\\wpf\\lib\\hoadon\\hoadon\\hoadon\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{D6E7560B-2DC7-4A0C-924B-323832956DA9}|Hoadon\\Hoadon.csproj|solutionrelative:hoadon\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6E7560B-2DC7-4A0C-924B-323832956DA9}|Hoadon\\Hoadon.csproj|d:\\window\\wpf\\lib\\hoadon\\hoadon\\hoadon\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{D6E7560B-2DC7-4A0C-924B-323832956DA9}|Hoadon\\Hoadon.csproj|solutionrelative:hoadon\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Hoadon.cs",
+              "DocumentMoniker": "D:\\WinDow\\WPF\\Lib\\hoadon\\hoadon\\Hoadon\\Models\\Hoadon.cs",
+              "RelativeDocumentMoniker": "Hoadon\\Models\\Hoadon.cs",
+              "ToolTip": "D:\\WinDow\\WPF\\Lib\\hoadon\\hoadon\\Hoadon\\Models\\Hoadon.cs",
+              "RelativeToolTip": "Hoadon\\Models\\Hoadon.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T08:31:13.655Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Windowhanghoa.xaml",
+              "DocumentMoniker": "D:\\WinDow\\WPF\\Lib\\hoadon\\hoadon\\Hoadon\\UI\\Windowhanghoa.xaml",
+              "RelativeDocumentMoniker": "Hoadon\\UI\\Windowhanghoa.xaml",
+              "ToolTip": "D:\\WinDow\\WPF\\Lib\\hoadon\\hoadon\\Hoadon\\UI\\Windowhanghoa.xaml",
+              "RelativeToolTip": "Hoadon\\UI\\Windowhanghoa.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-02-21T08:27:32.119Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "App.xaml",
+              "DocumentMoniker": "D:\\WinDow\\WPF\\Lib\\hoadon\\hoadon\\Hoadon\\App.xaml",
+              "RelativeDocumentMoniker": "Hoadon\\App.xaml",
+              "ToolTip": "D:\\WinDow\\WPF\\Lib\\hoadon\\hoadon\\Hoadon\\App.xaml",
+              "RelativeToolTip": "Hoadon\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-02-21T08:24:49.774Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\WinDow\\WPF\\Lib\\hoadon\\hoadon\\Hoadon\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Hoadon\\MainWindow.xaml.cs",
+              "ToolTip": "D:\\WinDow\\WPF\\Lib\\hoadon\\hoadon\\Hoadon\\MainWindow.xaml.cs",
+              "RelativeToolTip": "Hoadon\\MainWindow.xaml.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T08:24:33.279Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\WinDow\\WPF\\Lib\\hoadon\\hoadon\\Hoadon\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "Hoadon\\MainWindow.xaml",
+              "ToolTip": "D:\\WinDow\\WPF\\Lib\\hoadon\\hoadon\\Hoadon\\MainWindow.xaml",
+              "RelativeToolTip": "Hoadon\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-02-21T08:22:32.623Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Windowhoadon.xaml.cs",
+              "DocumentMoniker": "D:\\WinDow\\WPF\\Lib\\hoadon\\hoadon\\Hoadon\\UI\\Windowhoadon.xaml.cs",
+              "RelativeDocumentMoniker": "Hoadon\\UI\\Windowhoadon.xaml.cs",
+              "ToolTip": "D:\\WinDow\\WPF\\Lib\\hoadon\\hoadon\\Hoadon\\UI\\Windowhoadon.xaml.cs",
+              "RelativeToolTip": "Hoadon\\UI\\Windowhoadon.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T08:22:15.569Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Choadon.cs",
+              "DocumentMoniker": "D:\\WinDow\\WPF\\Lib\\hoadon\\hoadon\\Hoadon\\MyModels\\Choadon.cs",
+              "RelativeDocumentMoniker": "Hoadon\\MyModels\\Choadon.cs",
+              "ToolTip": "D:\\WinDow\\WPF\\Lib\\hoadon\\hoadon\\Hoadon\\MyModels\\Choadon.cs",
+              "RelativeToolTip": "Hoadon\\MyModels\\Choadon.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAzwDIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T08:22:05.039Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Cchitiethoadon.cs",
+              "DocumentMoniker": "D:\\WinDow\\WPF\\Lib\\hoadon\\hoadon\\Hoadon\\MyModels\\Cchitiethoadon.cs",
+              "RelativeDocumentMoniker": "Hoadon\\MyModels\\Cchitiethoadon.cs",
+              "ToolTip": "D:\\WinDow\\WPF\\Lib\\hoadon\\hoadon\\Hoadon\\MyModels\\Cchitiethoadon.cs",
+              "RelativeToolTip": "Hoadon\\MyModels\\Cchitiethoadon.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAA4wEEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T08:22:03.95Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Windowhoadon.xaml",
+              "DocumentMoniker": "D:\\WinDow\\WPF\\Lib\\hoadon\\hoadon\\Hoadon\\UI\\Windowhoadon.xaml",
+              "RelativeDocumentMoniker": "Hoadon\\UI\\Windowhoadon.xaml",
+              "ToolTip": "D:\\WinDow\\WPF\\Lib\\hoadon\\hoadon\\Hoadon\\UI\\Windowhoadon.xaml",
+              "RelativeToolTip": "Hoadon\\UI\\Windowhoadon.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-02-21T08:22:01.355Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

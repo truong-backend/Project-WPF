@@ -1,0 +1,151 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\WinDow\\WPF\\Lib\\Ontapcuathinh\\OnTap\\WpfAppDienKe\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ACCE72EE-BA92-4441-B37A-D59873DD348C}|WpfAppDienKe\\WpfAppDienKe.csproj|d:\\window\\wpf\\lib\\ontapcuathinh\\ontap\\wpfappdienke\\wpfappdienke\\ui\\windowdienke.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACCE72EE-BA92-4441-B37A-D59873DD348C}|WpfAppDienKe\\WpfAppDienKe.csproj|solutionrelative:wpfappdienke\\ui\\windowdienke.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACCE72EE-BA92-4441-B37A-D59873DD348C}|WpfAppDienKe\\WpfAppDienKe.csproj|d:\\window\\wpf\\lib\\ontapcuathinh\\ontap\\wpfappdienke\\wpfappdienke\\ui\\windowdienke.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{ACCE72EE-BA92-4441-B37A-D59873DD348C}|WpfAppDienKe\\WpfAppDienKe.csproj|solutionrelative:wpfappdienke\\ui\\windowdienke.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACCE72EE-BA92-4441-B37A-D59873DD348C}|WpfAppDienKe\\WpfAppDienKe.csproj|d:\\window\\wpf\\lib\\ontapcuathinh\\ontap\\wpfappdienke\\wpfappdienke\\mymodels\\cdienke.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACCE72EE-BA92-4441-B37A-D59873DD348C}|WpfAppDienKe\\WpfAppDienKe.csproj|solutionrelative:wpfappdienke\\mymodels\\cdienke.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACCE72EE-BA92-4441-B37A-D59873DD348C}|WpfAppDienKe\\WpfAppDienKe.csproj|d:\\window\\wpf\\lib\\ontapcuathinh\\ontap\\wpfappdienke\\wpfappdienke\\models\\csdl_dienkecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACCE72EE-BA92-4441-B37A-D59873DD348C}|WpfAppDienKe\\WpfAppDienKe.csproj|solutionrelative:wpfappdienke\\models\\csdl_dienkecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACCE72EE-BA92-4441-B37A-D59873DD348C}|WpfAppDienKe\\WpfAppDienKe.csproj|d:\\window\\wpf\\lib\\ontapcuathinh\\ontap\\wpfappdienke\\wpfappdienke\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{ACCE72EE-BA92-4441-B37A-D59873DD348C}|WpfAppDienKe\\WpfAppDienKe.csproj|solutionrelative:wpfappdienke\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACCE72EE-BA92-4441-B37A-D59873DD348C}|WpfAppDienKe\\WpfAppDienKe.csproj|d:\\window\\wpf\\lib\\ontapcuathinh\\ontap\\wpfappdienke\\wpfappdienke\\models\\dienke.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACCE72EE-BA92-4441-B37A-D59873DD348C}|WpfAppDienKe\\WpfAppDienKe.csproj|solutionrelative:wpfappdienke\\models\\dienke.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACCE72EE-BA92-4441-B37A-D59873DD348C}|WpfAppDienKe\\WpfAppDienKe.csproj|d:\\window\\wpf\\lib\\ontapcuathinh\\ontap\\wpfappdienke\\wpfappdienke\\models\\khachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACCE72EE-BA92-4441-B37A-D59873DD348C}|WpfAppDienKe\\WpfAppDienKe.csproj|solutionrelative:wpfappdienke\\models\\khachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACCE72EE-BA92-4441-B37A-D59873DD348C}|WpfAppDienKe\\WpfAppDienKe.csproj|d:\\window\\wpf\\lib\\ontapcuathinh\\ontap\\wpfappdienke\\wpfappdienke\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACCE72EE-BA92-4441-B37A-D59873DD348C}|WpfAppDienKe\\WpfAppDienKe.csproj|solutionrelative:wpfappdienke\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "csdl_dienkeContext.cs",
+              "DocumentMoniker": "D:\\WinDow\\WPF\\Lib\\Ontapcuathinh\\OnTap\\WpfAppDienKe\\WpfAppDienKe\\Models\\csdl_dienkeContext.cs",
+              "RelativeDocumentMoniker": "WpfAppDienKe\\Models\\csdl_dienkeContext.cs",
+              "ToolTip": "D:\\WinDow\\WPF\\Lib\\Ontapcuathinh\\OnTap\\WpfAppDienKe\\WpfAppDienKe\\Models\\csdl_dienkeContext.cs",
+              "RelativeToolTip": "WpfAppDienKe\\Models\\csdl_dienkeContext.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAzwB4AAABeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T15:16:04.17Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CDienKe.cs",
+              "DocumentMoniker": "D:\\WinDow\\WPF\\Lib\\Ontapcuathinh\\OnTap\\WpfAppDienKe\\WpfAppDienKe\\MyModels\\CDienKe.cs",
+              "RelativeDocumentMoniker": "WpfAppDienKe\\MyModels\\CDienKe.cs",
+              "ToolTip": "D:\\WinDow\\WPF\\Lib\\Ontapcuathinh\\OnTap\\WpfAppDienKe\\WpfAppDienKe\\MyModels\\CDienKe.cs",
+              "RelativeToolTip": "WpfAppDienKe\\MyModels\\CDienKe.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T15:03:32.899Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Khachhang.cs",
+              "DocumentMoniker": "D:\\WinDow\\WPF\\Lib\\Ontapcuathinh\\OnTap\\WpfAppDienKe\\WpfAppDienKe\\Models\\Khachhang.cs",
+              "RelativeDocumentMoniker": "WpfAppDienKe\\Models\\Khachhang.cs",
+              "ToolTip": "D:\\WinDow\\WPF\\Lib\\Ontapcuathinh\\OnTap\\WpfAppDienKe\\WpfAppDienKe\\Models\\Khachhang.cs",
+              "RelativeToolTip": "WpfAppDienKe\\Models\\Khachhang.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAzwBEAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T14:59:51.645Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WindowDienKe.xaml.cs",
+              "DocumentMoniker": "D:\\WinDow\\WPF\\Lib\\Ontapcuathinh\\OnTap\\WpfAppDienKe\\WpfAppDienKe\\UI\\WindowDienKe.xaml.cs",
+              "RelativeDocumentMoniker": "WpfAppDienKe\\UI\\WindowDienKe.xaml.cs",
+              "ToolTip": "D:\\WinDow\\WPF\\Lib\\Ontapcuathinh\\OnTap\\WpfAppDienKe\\WpfAppDienKe\\UI\\WindowDienKe.xaml.cs",
+              "RelativeToolTip": "WpfAppDienKe\\UI\\WindowDienKe.xaml.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAAowFcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T14:14:12.051Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Dienke.cs",
+              "DocumentMoniker": "D:\\WinDow\\WPF\\Lib\\Ontapcuathinh\\OnTap\\WpfAppDienKe\\WpfAppDienKe\\Models\\Dienke.cs",
+              "RelativeDocumentMoniker": "WpfAppDienKe\\Models\\Dienke.cs",
+              "ToolTip": "D:\\WinDow\\WPF\\Lib\\Ontapcuathinh\\OnTap\\WpfAppDienKe\\WpfAppDienKe\\Models\\Dienke.cs",
+              "RelativeToolTip": "WpfAppDienKe\\Models\\Dienke.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAADwvxIAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T14:14:02.798Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\WinDow\\WPF\\Lib\\Ontapcuathinh\\OnTap\\WpfAppDienKe\\WpfAppDienKe\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "WpfAppDienKe\\MainWindow.xaml.cs",
+              "ToolTip": "D:\\WinDow\\WPF\\Lib\\Ontapcuathinh\\OnTap\\WpfAppDienKe\\WpfAppDienKe\\MainWindow.xaml.cs",
+              "RelativeToolTip": "WpfAppDienKe\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T14:12:13.795Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\WinDow\\WPF\\Lib\\Ontapcuathinh\\OnTap\\WpfAppDienKe\\WpfAppDienKe\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "WpfAppDienKe\\MainWindow.xaml",
+              "ToolTip": "D:\\WinDow\\WPF\\Lib\\Ontapcuathinh\\OnTap\\WpfAppDienKe\\WpfAppDienKe\\MainWindow.xaml",
+              "RelativeToolTip": "WpfAppDienKe\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-02-26T14:11:22.95Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WindowDienKe.xaml",
+              "DocumentMoniker": "D:\\WinDow\\WPF\\Lib\\Ontapcuathinh\\OnTap\\WpfAppDienKe\\WpfAppDienKe\\UI\\WindowDienKe.xaml",
+              "RelativeDocumentMoniker": "WpfAppDienKe\\UI\\WindowDienKe.xaml",
+              "ToolTip": "D:\\WinDow\\WPF\\Lib\\Ontapcuathinh\\OnTap\\WpfAppDienKe\\WpfAppDienKe\\UI\\WindowDienKe.xaml",
+              "RelativeToolTip": "WpfAppDienKe\\UI\\WindowDienKe.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-02-26T14:11:00.465Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

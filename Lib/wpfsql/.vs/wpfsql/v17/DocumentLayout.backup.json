@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\WinDow\\WPF\\Lib\\wpfsql\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3D437344-ACC4-4423-ABE0-01E01911A9C4}|wpfsql\\wpfsql.csproj|d:\\window\\wpf\\lib\\wpfsql\\wpfsql\\ui\\windowhoadon.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{3D437344-ACC4-4423-ABE0-01E01911A9C4}|wpfsql\\wpfsql.csproj|solutionrelative:wpfsql\\ui\\windowhoadon.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D437344-ACC4-4423-ABE0-01E01911A9C4}|wpfsql\\wpfsql.csproj|d:\\window\\wpf\\lib\\wpfsql\\wpfsql\\ui\\windowhanghoa.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D437344-ACC4-4423-ABE0-01E01911A9C4}|wpfsql\\wpfsql.csproj|solutionrelative:wpfsql\\ui\\windowhanghoa.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D437344-ACC4-4423-ABE0-01E01911A9C4}|wpfsql\\wpfsql.csproj|d:\\window\\wpf\\lib\\wpfsql\\wpfsql\\ui\\windowhanghoa.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{3D437344-ACC4-4423-ABE0-01E01911A9C4}|wpfsql\\wpfsql.csproj|solutionrelative:wpfsql\\ui\\windowhanghoa.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 193,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WindowHoaDon.xaml",
+              "DocumentMoniker": "D:\\WinDow\\WPF\\Lib\\wpfsql\\wpfsql\\UI\\WindowHoaDon.xaml",
+              "RelativeDocumentMoniker": "wpfsql\\UI\\WindowHoaDon.xaml",
+              "ToolTip": "D:\\WinDow\\WPF\\Lib\\wpfsql\\wpfsql\\UI\\WindowHoaDon.xaml",
+              "RelativeToolTip": "wpfsql\\UI\\WindowHoaDon.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-02-21T07:23:32.439Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WindowHangHoa.xaml.cs",
+              "DocumentMoniker": "D:\\WinDow\\WPF\\Lib\\wpfsql\\wpfsql\\UI\\WindowHangHoa.xaml.cs",
+              "RelativeDocumentMoniker": "wpfsql\\UI\\WindowHangHoa.xaml.cs",
+              "ToolTip": "D:\\WinDow\\WPF\\Lib\\wpfsql\\wpfsql\\UI\\WindowHangHoa.xaml.cs",
+              "RelativeToolTip": "wpfsql\\UI\\WindowHangHoa.xaml.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAgwEUAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T07:21:33.712Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "WindowHangHoa.xaml",
+              "DocumentMoniker": "D:\\WinDow\\WPF\\Lib\\wpfsql\\wpfsql\\UI\\WindowHangHoa.xaml",
+              "RelativeDocumentMoniker": "wpfsql\\UI\\WindowHangHoa.xaml",
+              "ToolTip": "D:\\WinDow\\WPF\\Lib\\wpfsql\\wpfsql\\UI\\WindowHangHoa.xaml",
+              "RelativeToolTip": "wpfsql\\UI\\WindowHangHoa.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-02-21T07:17:27.974Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
